@@ -16,10 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
       - name: Install dependencies & build
         run: |
           npm ci
           npm run build
+      - name: Preserve candidate output for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: govuh-guidance-candidate
+          path: _site/
+          if-no-files-found: error
+          retention-days: 7
 
   codeql-sast:
     name: CodeQL SAST scan
