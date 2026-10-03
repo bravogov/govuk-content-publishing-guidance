@@ -6,14 +6,15 @@ description: Find out about the purpose of this guidance and how you can contrib
 lastUpdated:
 ---
 
-The GOV.UK content and publishing guidance includes information about:
+The GOV.UH content and publishing guidance explains how authorised editors and publishers create, review, publish, update and retire material using GOV.UH's original GOV.UK-derived publishing applications.
 
-- designing content that meets standards
-- using publishing applications
-- formatting content
-- getting help with publishing
-- publishing during national events
+It includes guidance on:
 
-The guidance is maintained by the Government Digital Service (GDS).
+- writing and designing accessible, accurate government content
+- choosing the appropriate content type and responsible publishing application
+- formatting content using approved components and original templates
+- using Signon, Accord Publisher and the other native publishing tools
+- obtaining editorial and technical support through the applicable service
+- managing changes to published content and publication during significant events
 
-*[GDS]: Government Digital Service
+The guidance itself is maintained in the original GOV.UK content-and-publishing-guidance software, with the reviewed UH content held in the [BravoGov source repository](https://github.com/bravogov/govuk-content-publishing-guidance). It is not edited as an ordinary Accord document. Editors and maintainers must retain original software provenance and the applicable content licences.
