@@ -1,8 +1,8 @@
 name: Deploy content to Pages
 
+# Preview-only origin workflow. GOV.UH production is delivered via its approved,
+# separately verified immutable release chain, not an automatic GitHub Pages push.
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -25,9 +25,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
       - name: Install dependencies & build
         run: |
-          npm install
+          npm ci
           npm run build
       - uses: actions/upload-pages-artifact@v3
       - name: Setup Pages
