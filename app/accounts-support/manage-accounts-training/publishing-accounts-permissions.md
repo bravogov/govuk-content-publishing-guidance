@@ -1,33 +1,12 @@
 ---
-layout: landing-page
-sectionKey: Accounts and support
-order: 1
-eleventyNavigation:
-  parent: Manage accounts and training
+layout: page
 title: Publishing accounts and permissions
-description: Learn what a Signon account is and about different permissions in Whitehall Publisher, including writer, editor and managing editor permissions.
+description: Access to GOV.UH publishing applications.
 lastUpdated:
 ---
-You need a Signon account to access GOV.UK publishing applications such as Whitehall Publisher and Specialist Publisher. You also need it to get help through GOV.UK Support.
 
-Your GOV.UK lead or an organisation admin can [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/) for you.
+Authorised editors sign in through [GOV.UH Signon](https://signon.publishing.service.gov.uhrblx.com/). An account must have the correct application access and permissions for the organisation whose content is being maintained.
 
-## Types of Whitehall Publisher permissions
+Ask the authorised administrator for your institution to arrange account access or a permissions change. The administrator verifies the institutional role and the publishing function before granting access. Authentication and editor permissions are distinct from ministerial, legal or institutional authority to issue material.
 
-If you have a ‘writer’ account you can create Whitehall content but you cannot publish it. 
-
-When you get your account, you’ll have ‘writer’ permissions.
-
-If you have an ‘editor’ account, you can create and publish Whitehall content and you can review (2i) content submitted by others.
-
-If you have a ‘managing editor’ account, you can:
-
-+ create, publish and 2i Whitehall content
-+ [unpublish, withdraw and unwithdraw Whitehall content](/writing-to-gov-uk-standards/plan-manage-content/retire-content)
-+ [change your organisation page layout](/publish-update-retire-content/organisations-people/organisations/#featured-links)
-
-Most organisations are limited to 5 managing editors and 5 organisation admins, who can be the same people.
-
-Your GOV.UK lead or an organisation admin can make or request changes to your permissions.
-
-They can read the guidance on [managing accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) to see how to do this.
+Keep account access attributable to the person using it. Review permissions when responsibilities change or access is no longer required.

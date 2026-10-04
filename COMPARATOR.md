@@ -23,8 +23,14 @@ UK application catalogue: https://docs.publishing.service.gov.uk/apps.html
 - Adapt UK editorial instructions against the live UH publishing applications, institutional boundaries, competence and current content standard. Do not mechanically republish UK-specific instructions as UH policy.
 - Preserve source authorship and original upstream licence in the repository. Published UH guidance must undergo editorial, institutional, accessibility and legal QA.
 
+## Completed candidate adaptations (4 October 2026)
+- Replaced the native plugin's original government identity through documented configuration and existing approved GOV.UH artwork.
+- Removed the inherited UK tracking embed, site verification token and analytics page instrumentation from the candidate layout; disabled its upstream tracking loader.
+- Replaced the UK source privacy, cookies and accessibility assertions with source-specific candidate notices and live GOV.UH help references. These notices remain subject to review of the actual hosting and records arrangements.
+- Successfully rebuilt the full native Eleventy candidate after cleaning generated output; none of the generated HTML or JavaScript contains the inherited UK tracking identifiers checked by the release QA.
+
 ## Release blockers
 - The unadapted UK content corpus still includes UK operational procedures, government organisation references, external service links, legal and privacy statements. These are comparator material, not cleared UH official text.
-- The original UK-owned privacy notice, cookie statement and accessibility statement require UH-specific factual review.
+- The replacement UH candidate notices require verification against actual release hosting, security logs, controller responsibilities and accessibility results.
 - The source build is not public-deployment approval. Native software delivery, immutable release digest, rollback and canonical readback remain required.
 - Never publish a UK Coat of Arms, inherited UK logotype or inherited UK Crown copyright treatment as the UH identity.

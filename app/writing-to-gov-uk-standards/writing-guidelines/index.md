@@ -1,14 +1,14 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
-order: 6
-eleventyNavigation:
-  parent: Writing to GOV.UK standards
+permalink: /writing-to-gov-uh-standards/writing-guidelines/index.html
+sectionKey: Writing guidelines
 title: Writing guidelines
-description: Learn how to write effective and clear content for GOV.UK.
-redirect_from: /writing-to-gov-uk-standards/tone-of-voice
+description: Write clear, accurate and usable government content.
 lastUpdated:
 ---
-Your GOV.UK content needs to be written to certain guidelines. This will make it easy for users to find what they need and understand it. 
 
-To check the rules around specific words, phrases or formatting, you should also check the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/).
+Use short, direct sentences and familiar British English. Write for the reader's task rather than the internal structure of a department. Explain specialist terms where necessary.
+
+Use informative headings, meaningful link text, properly marked-up lists and tables, and accessible alternatives for non-text content. Preserve the exact names of institutions, offices, legislation, services and official products.
+
+Proofread content and check it against its competent source before approval.

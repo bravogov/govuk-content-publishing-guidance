@@ -66,7 +66,7 @@ export default function(eleventyConfig) {
       navigation: [
         {
             text: "Writing standards",
-            href: "/writing-to-gov-uk-standards"
+            href: "/writing-to-gov-uh-standards"
         },
         {
           text: "Publishing content",
@@ -80,10 +80,6 @@ export default function(eleventyConfig) {
 	        text: "Accounts and support",
 	        href: "/accounts-support"
       },
-        {
-          text: "National events",
-          href: "/publishing-national-events"  
-        },
      
       ]
 
@@ -115,10 +111,6 @@ export default function(eleventyConfig) {
           {
             href: "/privacy-notice",
             text: "Privacy notice"
-          },
-          {
-            href: "/about-the-guidance/whats-new",
-            text: "What's new"
           },
         ],
         html: 'Published by the United Hampshire Government.',

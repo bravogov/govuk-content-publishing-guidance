@@ -21,7 +21,6 @@
         {{ description | markdown("inline") | noOrphans }}
         </p>
         {% endif %}
-        </p>
       </div>
     </div>
   </div>
@@ -33,7 +32,7 @@
           {% if whatsNew and whatsNewDate %}
             <section>
               <h2 class="govuk-heading-l">What's new</h2>
-              <h3 class="govuk-heading-s">{{ whatsNewDate }}{% if whatsNewHeadline %}: {{ whatsNewHeadline }}{% endif %}</p>
+              <h3 class="govuk-heading-s">{{ whatsNewDate }}{% if whatsNewHeadline %}: {{ whatsNewHeadline }}{% endif %}</h3>
               <p class="govuk-body">{{ whatsNew | markdown }}</p>
             </section>
             <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">

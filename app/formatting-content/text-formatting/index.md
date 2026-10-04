@@ -1,19 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Formatting content
-order: 1
-eleventyNavigation:
-  parent: Formatting content
+sectionKey: Text formatting
 title: Text formatting
-description: Learn how to format text in GOV.UK content with Govspeak Markdown code.
+description: Use semantic formatting supported by the publishing application.
 lastUpdated:
 ---
 
-You can format text through 'Govspeak', a simplified version of 'Markdown' code. You can use it in body content and HTML attachments.
+Use the editor's heading, paragraph, list, link, table and attachment controls. Formatting must represent the meaning and structure of the content, not just its appearance. Check that the published HTML follows a logical heading order and works with assistive technology.
 
-When you edit content, you'll usually see a quick guide to this code under 'Formatting' on the right of the screen.
-
-You can convert most formatted text from your own documents into 'Govspeak' code by either:
-
-- copying and pasting the text into the publishing app
-- using the [Govspeak converter](https://govspeak-preview.publishing.service.gov.uk/)
+Available markup and components depend on the authorised native application and content type. Preview the page and correct unsupported formatting before release.

@@ -1,18 +1,14 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
-title: Writing to GOV.UK standards
-description: Learn how to design content for GOV.UK.
+permalink: /writing-to-gov-uh-standards/index.html
+sectionKey: Writing to GOV.UH standards
+title: Writing to GOV.UH standards
+description: Design clear, accessible content that meets people's needs.
 lastUpdated:
 ---
-The guidance in this topic will help you design clear and helpful content for GOV.UK users.
 
-You'll find guidance to help you plan content in line with good content design principles. This includes things like: 
+Start with what readers need to know or do. State the responsible organisation, action and any eligibility or legal basis accurately. Put important information first, use descriptive headings and write in plain British English.
 
-* how to identify user needs
-* how to plan new content or changes to existing content
-* how to organise content in the GOV.UK topic taxonomy
-* advice for helping users prepare for changes to government policy or services
-* tools and resources for gathering insights into your content
+Match the form and status of the material. An Act, statutory instrument, policy paper, consultation, operational guidance and public service page serve different purposes. GOV.UH information must reflect the authoritative law, decision or record; website content does not create authority of its own.
 
-It also includes the GOV.UK style guides, and guidance on tone of voice and meeting accessibility requirements.
+Check factual currency, territorial application, accessibility, links, attachments and ownership of the published record before publication. Review existing content when an underlying decision, procedure or service changes.

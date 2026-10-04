@@ -1,33 +1,13 @@
 ---
 layout: landing-page
+sectionKey: Standard content types
 title: Standard content types
-sectionKey: Publish update or retire content
-eleventyNavigation:
-  parent: Publish update or retire content
-  parentTitle: "Publish, update or retire content"
-order: 2
-description: Learn how to follow the common processes for standard content types such as detailed guides and consultations.
+description: Choose the official publication type that matches the material.
 lastUpdated:
 ---
 
-Some content types on GOV.UK have similar processes for how you'll create, update or retire them. These 'standard' types are:
+Choose the content type by the material being published: for example, a news story, speech, policy paper, consultation, guidance, publication or statistics. Each product has its own approval, metadata, presentation and records requirements.
 
-* calls for evidence
-* case studies
-* consultations
-* detailed guides
-* document collections
-* fatality notices
-* news articles
-* publications
-* speeches
-* statistical data sets
-* statistics
+Use the authorised native publisher and select the correct organisation, document type, publication date and associated information. Legislation, parliamentary papers and judicial products follow their own competent publication routes.
 
-This section of guidance covers these content types, as well as the common processes for:
-
-* sending content for '2nd eyes' (2i)
-* reviewing content that's been sent for '2nd eyes' (2i)
-* publishing content
-* withdrawing or unpublishing content
-
+Update an existing edition where the native workflow requires it, preserving its publication history.

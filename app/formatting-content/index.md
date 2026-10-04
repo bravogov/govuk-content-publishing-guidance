@@ -2,16 +2,12 @@
 layout: landing-page
 sectionKey: Formatting content
 title: Formatting content
-description: Learn how to format text using markdown, and how to format images, videos and attachments. 
+description: Prepare accessible text, images, documents and other supported content.
 lastUpdated:
-redirect_from: /formatting-content/images-videos/
 ---
 
-The guidance in this topic will help you format your content for GOV.UK. Correct formatting will let you manage the appearance and usability of your content.
+Use the native formatting controls of the authorised publishing application. Structure text with real headings, paragraphs and lists; use descriptive links and accessible tables; and provide suitable alternatives for images and other non-text content.
 
-This guidance covers how to format:
+Use attachments where an HTML page is unsuitable or an official document must retain its document form. Check the source, version, publication status, accessibility and format of every attachment. Link to authoritative records published by another institution at their own publication address.
 
-- text, like adding bullet points, charts, headings and tables
-- images
-- videos
-- attachments
+Preview and test content before publication, including keyboard navigation, mobile layout and links. Check the published page as well as the editor preview.

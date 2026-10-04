@@ -1,5 +1,5 @@
 // Use GOV.UK Frontend
-@use "pkg:govuk-frontend/dist/govuk";
+@use "pkg:govuk-frontend/dist/govuk" with ($govuk-font-family: (Arial, sans-serif));
 
 // Use GOV.UK Eleventy Plugin components
 @use "pkg:@x-govuk/govuk-eleventy-plugin";

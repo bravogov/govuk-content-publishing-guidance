@@ -2,28 +2,22 @@
 homepage: true
 layout: homepage
 title: Home
-customPageTitle: How to create and update content for GOV.UK
-description: Read the standards for digital content and find out how to use the government’s publishing tools.
+customPageTitle: Content and publishing guidance for GOV.UH
+description: Content standards and instructions for authorised government editors.
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 29 September 2026
-whatsNewHeadline: Updated the style guide to make it clear that days in dates should be formatted as numerals
-whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
-  - title: A to Z style guide
-    description: Style, spelling and grammar conventions for GOV.UK.
-    linktext: View the A to Z style guide
-    url: /writing-to-gov-uk-standards/style-guides/a-to-z-style-guide
-  - title: Writing guidelines
-    description: Meet the standards for writing GOV.UK content.
-    linktext: Read the writing guidelines
-    url: /writing-to-gov-uk-standards/writing-guidelines
-  - title: Content types
-    description: Get help deciding which type to use for your content.
-    linktext: Choose a content type
-    url: /publish-update-retire-content/choose-content-type/
-#additionalInfo:
-#  - title: Title
-#    content: Content
+  - title: Writing standards
+    description: Standards for clear and accessible government content.
+    linktext: View writing standards
+    url: /writing-to-gov-uh-standards/
+  - title: Publishing content
+    description: Content types and procedures for the native publishing applications.
+    linktext: View publishing guidance
+    url: /publish-update-retire-content/
+  - title: Formatting content
+    description: Guidance on text, images, attachments and other supported formatting.
+    linktext: View formatting guidance
+    url: /formatting-content/
 ---
