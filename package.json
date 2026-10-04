@@ -6,7 +6,7 @@
   },
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy && node script/prepare-uh-release.mjs"
+    "build": "npx @11ty/eleventy && node script/prepare-uh-release.mjs && node script/verify-native-navigation.mjs"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.6",
