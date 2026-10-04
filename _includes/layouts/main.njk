@@ -1,41 +1,14 @@
-{% from "_cookie-banner.njk" import cookieBanner %}
-
 {# Extend GOV.UK Eleventy Plugin base layout #}
 {% extends "layouts/base.njk" %}
 
 {% block govukHeader %}
-  <div data-module="search-tracker">
-    {{ super() }}
-  </div>
-{% endblock %}
-
-{% block bodyStart %}
-  <div data-module="page-view-tracker"></div>
-  {% call cookieBanner({
-    category: "analytics"
-  }) %}{% endcall %}
+  {{ super() }}
 {% endblock %}
 
 {% block bodyEnd %}
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W69GK5WH"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-
-  {% js %}
-    window.GDS_CONSENT_COOKIE_VERSION = 1;
-
-    initialiseAnalytics()    
-
-    createAll(CookieBanner)
-    createAll(CookiesPage)
-  {% endjs %}
-
-  <script type="module" src="{% getBundleFileUrl 'js' %}"></script>
-
+  {# No UK Government analytics, Google Tag Manager or consent cookie is enabled. #}
 {% endblock %}
 {% block head %}
   {{ super() }}
-  <meta name="google-site-verification" content="T789KqsmfvlTlaW2rvm5QJQBRYYL8yePTZWMJxMhIfo"/>
   <meta name="govuk:rendering-app" content="govuk-content-publishing-guidance">
 {% endblock %}
