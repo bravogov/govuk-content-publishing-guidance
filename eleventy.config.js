@@ -47,7 +47,7 @@ export default function(eleventyConfig) {
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     homeKey: 'Home',
-    titleSuffix: 'GOV.UK content and publishing guidance',
+    titleSuffix: 'GOV.UH content and publishing guidance',
     showBreadcrumbs: true,
     stylesheets: [
       '/assets/styles.css'
@@ -110,7 +110,7 @@ export default function(eleventyConfig) {
             text: "What's new"
           },
         ],
-        html: 'Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-footer__link">Government Digital Service</a>.',
+        html: '<a href="https://www.gov.uhrblx.com/" class="govuk-footer__link">GOV.UH</a>.',
       }
     },
     templates: {
