@@ -44,15 +44,17 @@ export default function(eleventyConfig) {
     bundleExportKey: "bundle",
   });
 
+  eleventyConfig.addPassthroughCopy({ 'app/assets/uh': 'assets/uh' });
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     homeKey: 'Home',
-    titleSuffix: 'GOV.UK content and publishing guidance',
+    titleSuffix: 'GOV.UH content and publishing guidance',
     showBreadcrumbs: true,
     stylesheets: [
       '/assets/styles.css'
     ],
     header: {
+      logotype: { html: '<img src="/assets/uh/gov-uh-site-identity-logo.svg" alt="GOV.UH" width="162" height="30">' },
       productName: 'Content and publishing guidance',
       search: {
         indexPath: '/search.json',
@@ -86,7 +88,16 @@ export default function(eleventyConfig) {
       ]
 
     },
+    icons: {
+      mask: '/assets/uh/gov-uh-site-identity-logo.svg',
+      shortcut: '/assets/uh/uh-header-crown-approved.png',
+      touch: '/assets/uh/uh-header-crown-approved.png',
+    },
+    opengraphImageUrl: '/assets/uh/uh-footer-coat-of-arms.webp',
     footer: {
+      logo: false,
+      copyright: { html: '<a class="govuk-footer__link" href="https://nationalarchives.gov.uhrblx.com/information-management/re-using-public-sector-information/uh-government-licensing-framework/crown-copyright/"><img src="/assets/uh/uh-footer-coat-of-arms.webp" alt="" aria-hidden="true" width="120" height="96">© Crown copyright</a>' },
+      contentLicence: { html: 'All content is available under the <a class="govuk-footer__link" href="https://nationalarchives.gov.uhrblx.com/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated' },
       meta: {
         items: [
           {
@@ -110,7 +121,7 @@ export default function(eleventyConfig) {
             text: "What's new"
           },
         ],
-        html: 'Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-footer__link">Government Digital Service</a>.',
+        html: 'Published by the United Hampshire Government.',
       }
     },
     templates: {

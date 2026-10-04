@@ -1,0 +1,43 @@
+version: 1
+application: govuk-content-publishing-guidance
+status: candidate_not_cleared
+uk_source:
+  repository: https://github.com/alphagov/govuk-content-publishing-guidance
+  revision: 2e8ebf278e0545cd9c56df98c9d11406866c3b7f
+  product: https://guidance.publishing.service.gov.uk/
+uh_repository: https://github.com/bravogov/govuk-content-publishing-guidance
+intended_host: guidance.publishing.service.gov.uhrblx.com
+institutional_owner: government_communications_and_digital_publishing_within_established_competence
+authoritative_record: controlled_guidance_repository_and_publication_release
+implementation_class: exact_UK_source_with_necessary_UH_adaptation
+routes:
+  - path: /
+    function: guidance_discovery
+    comparator: upstream_app/index.md
+    record: versioned_guidance_publication
+  - path: /writing-to-gov-uk-standards/
+    function: editorial_standards
+    comparator: upstream_app/writing-to-gov-uk-standards/
+    record: versioned_guidance_publication
+    state: content_adaptation_required
+  - path: /publish-update-retire-content/
+    function: native_publishing_procedure_guidance
+    comparator: upstream_app/publish-update-retire-content/
+    record: versioned_guidance_publication
+    state: actual_UH_workflows_must_be_verified
+  - path: /accounts-support/
+    function: guidance_on_access_to_publishing_applications
+    comparator: upstream_app/accounts-support/
+    record: versioned_guidance_publication
+    state: actual_UH_Signon_and_support_routes_must_be_verified
+controls:
+  authentication: not_a_staff_login
+  publication: native_static_released_artifact_through_controlled_deployment
+  review: editorial_institutional_legal_privacy_accessibility_brand_link_and_browser_QA
+  deployment: immutable_digest_then_HTTPS_readback_and_rollback_proof
+  disallowed:
+    - UK_branding_in_public_UH_output
+    - mechanically_republished_UK_specific_legal_or_privacy_instructions
+    - generic_staff_portal
+    - custom_publishing_dashboard
+    - unapproved_canonical_route_or_redirect
