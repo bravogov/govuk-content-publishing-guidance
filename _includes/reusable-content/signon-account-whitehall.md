@@ -1,1 +1,1 @@
-To create or update this content type, you'll need a [Signon account with access to Whitehall Publisher](/accounts-support/manage-accounts-training/publishing-accounts-permissions/).
+To create or update this content type, you'll need a [Signon account with access to Accord (Whitehall Publisher)](/accounts-support/manage-accounts-training/publishing-accounts-permissions/).

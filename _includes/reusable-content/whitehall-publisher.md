@@ -1,1 +1,1 @@
-Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+Go to [Accord (Whitehall Publisher)](https://whitehall-admin.publishing.service.gov.uhrblx.com/government/admin/).
