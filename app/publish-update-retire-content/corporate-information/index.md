@@ -69,5 +69,4 @@ Find out what to include in the different types of corporate information pages:
 * [Research at [organisation name]](/publish-update-retire-content/corporate-information/research/)
 * [Statistics at [organisation name]](/publish-update-retire-content/corporate-information/statistics/)
 * [Terms of reference](/publish-update-retire-content/corporate-information/terms-reference/)
-* [Welsh language scheme](/publish-update-retire-content/corporate-information/welsh-language-scheme/)
 * [Working for [organisation name]](/publish-update-retire-content/corporate-information/working-for/)
