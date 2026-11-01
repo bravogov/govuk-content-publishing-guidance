@@ -77,6 +77,16 @@ The CSV file contains a list of content in the following fields:
 
 This can help you audit your content. For example, you could use it to find out which content has not been updated recently.
 
+## Keep content accurate between scheduled reviews
+
+A review date is a reminder to check published content; it does not mean the page is necessarily accurate until that date. The organisation responsible for the content should tell its content team when a law, policy, official decision, appointment, governance arrangement, operating procedure or public service changes.
+
+When reviewing content, check the current authoritative institutional source, the applicable content-type guidance, the last published edition and any related documents, contacts and service links. Avoid relying on an old copy of a published page as evidence that the facts are still correct.
+
+If Whitehall Publisher provides a review date and reminder email for the content, set them for the responsible recipient and check reminders are being delivered. Do not invent an editor or assign reminders to an unmonitored mailbox. If the content is unchanged, record the check and set the next review date where supported. If it has changed, prepare a new edition, include an internal note explaining the change, obtain the required review and verify the published result.
+
+For organisation corporate information, follow the [corporate information page guidance](/publish-update-retire-content/corporate-information/) and check the real governance, complaints, information rights and other arrangements with the owning organisation.
+
 ## Check your content is working for users
 
 Monitor your content regularly to check if it's useful for users and they can find it.
