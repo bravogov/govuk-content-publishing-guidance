@@ -114,4 +114,11 @@ abbr {
     height: 100%
 }
 // Approved complete United Hampshire arms in the native GOV.UK footer copyright slot.
-.govuh-government-footer-arms { display: block; width: 120px; height: 120px; object-fit: contain; margin-bottom: 10px; }
+/* Match the approved GOV.UH homepage copyright-logo slot and artwork. */
+.govuk-footer__copyright-logo::before {
+  background: transparent url("https://www.gov.uhrblx.com/uh-brand/uh-government-coat-of-arms-footer-20261016.webp") no-repeat center top !important;
+  background-size: auto 112px !important;
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+}
+.govuk-footer__copyright-logo { text-align: center; }

@@ -93,8 +93,8 @@ export default function(eleventyConfig) {
     opengraphImageUrl: '/assets/uh/uh-header-crown-approved.png',
     footer: {
       logo: false,
-      copyright: { html: '<img class="govuh-government-footer-arms" src="/assets/uh/uh-government-coat-of-arms.webp" width="120" height="120" alt="United Hampshire Coat of Arms"><a class="govuk-footer__link" href="https://nationalarchives.gov.uhrblx.com/information-management/re-using-public-sector-information/uh-government-licensing-framework/crown-copyright/">© Crown copyright</a>' },
-      contentLicence: { html: 'All content is available under the <a class="govuk-footer__link" href="https://nationalarchives.gov.uhrblx.com/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated' },
+      copyright: { html: '<a class="govuk-footer__link govuk-footer__copyright-logo" href="https://nationalarchives.gov.uhrblx.com/information-management/re-using-public-sector-information/uh-government-licensing-framework/crown-copyright/">© UH Crown copyright</a>' },
+      contentLicence: { html: 'Original UH content is available under the <a class="govuk-footer__link" href="https://nationalarchives.gov.uhrblx.com/doc/open-government-licence/version/3/" rel="license">UH Open Government Licence v3.0</a>, except where otherwise stated. Third-party material retains its own licence.' },
       meta: {
         items: [
           {
@@ -114,7 +114,7 @@ export default function(eleventyConfig) {
             text: "Privacy notice"
           },
         ],
-        html: 'Published by the United Hampshire Government.',
+        html: 'Published by the Government Digital Service, part of the Department for Science, Innovation and Technology.',
       }
     },
     templates: {
