@@ -1,11 +1,19 @@
 ---
 layout: landing-page
-sectionKey: Text formatting
+sectionKey: Formatting content
+order: 1
+eleventyNavigation:
+  parent: Formatting content
 title: Text formatting
-description: Use semantic formatting supported by the publishing application.
+description: Learn how to format text in GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 
-Use the editor's heading, paragraph, list, link, table and attachment controls. Formatting must represent the meaning and structure of the content, not just its appearance. Check that the published HTML follows a logical heading order and works with assistive technology.
+You can format text through 'Govspeak', a simplified version of 'Markdown' code. You can use it in body content and HTML attachments.
 
-Available markup and components depend on the authorised native application and content type. Preview the page and correct unsupported formatting before release.
+When you edit content, you'll usually see a quick guide to this code under 'Formatting' on the right of the screen.
+
+You can convert most formatted text from your own documents into Govspeak code by:
+
+- copying and pasting the text into the publishing app
+
