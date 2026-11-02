@@ -88,7 +88,7 @@ You can add attachments in these file types:
 
 ### Consider online alternatives to form attachments
 
-You may want to talk to your organisation's digital team about using a form building platform like [GOV.UK Forms](https://www.forms.service.gov.uk/) or [building a service](https://www.gov.uk/service-manual) so the user can provide the information online instead of using a form attachment.
+You may want to talk to your organisation's digital team about using a form building platform like [GOV.UH Forms](https://www.forms.service.gov.uhrblx.com/) or building an online service so the user can provide the information online instead of using a form attachment.
 
 If you want to link off to a form created on a third party service, like SurveyMonkey or SmartSurvey, check if your organisation has approved its use. If in doubt, ask your organisation's data protection team.
 

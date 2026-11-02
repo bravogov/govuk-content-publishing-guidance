@@ -48,7 +48,7 @@ If the guidance is a long or complex legal document with named or numbered chapt
 
 If you're publishing the form as a downloadable file only, use the [publication content type](/publish-update-retire-content/standard-content-types/publications/). You can use the same page to attach guidance about how to complete the form.
 
-If you're using a tool like [GOV.UK Forms](https://www.forms.service.gov.uk/) to create an online form, use the [detailed guide content type](/publish-update-retire-content/standard-content-types/detailed-guides/) to create a start page or add a start point. You can include instructions for completing the form and attach a downloadable version of the form if you have one.
+If you're using a tool like [GOV.UH Forms](https://www.forms.service.gov.uhrblx.com/) to create an online form, use the [detailed guide content type](/publish-update-retire-content/standard-content-types/detailed-guides/) to create a start page or add a start point. You can include instructions for completing the form and attach a downloadable version of the form if you have one.
 
 ## If you're asking for people's views on a policy
 
