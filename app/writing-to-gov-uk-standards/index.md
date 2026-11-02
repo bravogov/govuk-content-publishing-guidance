@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 permalink: /writing-to-gov-uh-standards/index.html
-sectionKey: Writing to GOV.UH standards
+sectionKey: Writing to GOV.UK standards
 title: Writing to GOV.UH standards
 description: Design clear, accessible content that meets people's needs.
 lastUpdated:
