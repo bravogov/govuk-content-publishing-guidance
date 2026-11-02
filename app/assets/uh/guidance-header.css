@@ -1,0 +1,11 @@
+/* GOV.UH publishing guidance header: use the existing UH identity asset in
+   gov-uh-site-identity-logo.svg and the agreed deep-blue guidance header.
+   Scoped deliberately to this product's header, not global GOV.UH branding. */
+.govuk-header.app-header {
+  background-color: #0b2f8a;
+  color: #ffffff;
+}
+.govuk-header.app-header .govuk-header__homepage-link,
+.govuk-header.app-header .govuk-header__product-name {
+  color: #ffffff;
+}
