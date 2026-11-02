@@ -53,7 +53,7 @@ for f in OUT.rglob('*.html'):
         pattern=r'\s*<li><a href="'+re.escape(dest)+r'"(?: class="govuk-link")?>[^<]*</a></li>'
         s,m=re.subn(pattern,'',s)
         if dest in s and name=='procurement' and f.relative_to(OUT).as_posix()=='publish-update-retire-content/corporate-information/publication-scheme/index.html':
-            previous='* [procurement procedures] (link to your <a href="'+dest+'" class="govuk-link">procurement page</a>)'
+            previous='our [procurement procedures] (link to your <a href="'+dest+'" class="govuk-link">procurement page</a>)'
             current='* [procurement procedures] (link to the organisation’s actual published policies, contracts or procurement information, where applicable)'
             must(s.count(previous)==1,'Unexpected procurement cross-reference')
             s=s.replace(previous,current)
