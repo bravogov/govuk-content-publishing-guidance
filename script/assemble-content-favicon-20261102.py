@@ -34,8 +34,13 @@ oldicons='<link rel="icon" href="/assets/uh/gov-uh-site-identity-logo.svg" sizes
 newicons='<link rel="icon" href="/assets/uh/uh-crown-favicon.svg" sizes="any" type="image/svg+xml"><link rel="mask-icon" href="https://www.gov.uhrblx.com/uh-brand/uh-crown-mask-20261014.svg" color="#1d70b8"><link rel="apple-touch-icon" href="https://www.gov.uhrblx.com/uh-brand/uh-crown-touch-20261014.png">'
 for f in OUT.rglob('*.html'):
     s=f.read_text()
-    must(s.count(oldicons)==1,'Unexpected head icon count '+str(f))
-    s=s.replace(oldicons,newicons)
+    if s.count(oldicons)==1:
+        s=s.replace(oldicons,newicons)
+    else:
+        # Some pages were originally HTML-minified and have reordered attributes.
+        alt='<link href="/assets/uh/gov-uh-site-identity-logo.svg" rel="icon" sizes="any"/><link color="#1d70b8" href="/assets/uh/gov-uh-site-identity-logo.svg" rel="mask-icon"/><link href="/assets/uh/gov-uh-site-identity-logo.svg" rel="apple-touch-icon"/>'
+        must(s.count(alt)==1,'Unexpected head icon count '+str(f))
+        s=s.replace(alt,newicons)
     for name in voided:
         dest='/publish-update-retire-content/corporate-information/'+name+'/'
         if dest not in s:continue
