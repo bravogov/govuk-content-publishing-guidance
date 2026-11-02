@@ -9,3 +9,6 @@
 .govuk-header.app-header .govuk-header__product-name {
   color: #ffffff;
 }
+.govuk-header.app-header .govuk-header__product-name {
+  margin-left: 12px;
+}
