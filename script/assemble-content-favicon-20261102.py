@@ -39,8 +39,10 @@ for f in OUT.rglob('*.html'):
     else:
         # Some pages were originally HTML-minified and have reordered attributes.
         alt='<link href="/assets/uh/gov-uh-site-identity-logo.svg" rel="icon" sizes="any"/><link color="#1d70b8" href="/assets/uh/gov-uh-site-identity-logo.svg" rel="mask-icon"/><link href="/assets/uh/gov-uh-site-identity-logo.svg" rel="apple-touch-icon"/>'
-        must(s.count(alt)==1,'Unexpected head icon count '+str(f))
-        s=s.replace(alt,newicons)
+        if s.count(alt)==1:
+            s=s.replace(alt,newicons)
+        else:
+            must('<title>Redirecting' in s and 'rel="icon"' not in s, 'Unexpected head icon count '+str(f))
     for name in voided:
         dest='/publish-update-retire-content/corporate-information/'+name+'/'
         if dest not in s:continue
@@ -62,7 +64,7 @@ must(len(list(OUT.rglob('*.html')))==157,'Expected 157 HTML files (2 former page
 must(len(list(OUT.rglob('*')))>0,'empty output')
 for f in OUT.rglob('*.html'):
     s=f.read_text()
-    must('href="/assets/uh/uh-crown-favicon.svg"' in s,'favicon absent '+str(f))
+    must('href="/assets/uh/uh-crown-favicon.svg"' in s or ('<title>Redirecting' in s and 'rel="icon"' not in s),'favicon absent '+str(f))
     must(not any('/corporate-information/'+x+'/' in s for x in voided),'stale void reference '+str(f))
 must('Keep corporate information up to date' in (OUT/'publish-update-retire-content/corporate-information/index.html').read_text(),'prior approved guidance lost')
 manifest={"repo_commit":"SOURCE_COMMIT_TO_SET","baseline":BASE.parent.name,"pages":157,"removed_corporate_pages":voided,"favicon":"homepage exact SVG","source_sections":["corporate-information/index.md","corporate-information/publication-scheme.md"],"file_count":len([f for f in OUT.rglob('*') if f.is_file()])}
