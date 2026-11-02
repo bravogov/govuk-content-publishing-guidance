@@ -64,7 +64,7 @@ This is where we publish financial information about projected and actual income
 * our [senior staff pay and grading structures] (link directly to these on GOV.UK, or to relevant data.gov information)
 * our [junior staff pay and grading structures] (link directly to these on GOV.UK, or to relevant data.gov information)
 * our [senior advisers' salaries and salary ranges] (link directly to these on GOV.UK, or to relevant data.gov information)
-* our [procurement procedures] (link to your [procurement page](/publish-update-retire-content/corporate-information/procurement/))
+* our [procurement procedures] (link to the organisation’s actual published policies, contracts or procurement information, where applicable)
 * our [financial statements for projects and events] (remove this if not applicable, or create a collection to collate these and link to them)
 * [internal financial regulations]
 
