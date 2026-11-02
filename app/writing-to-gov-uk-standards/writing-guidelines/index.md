@@ -4,7 +4,7 @@ permalink: /writing-to-gov-uh-standards/writing-guidelines/index.html
 sectionKey: Writing to GOV.UK standards
 order: 6
 eleventyNavigation:
-  parent: Writing to GOV.UH standards
+  parent: Writing to GOV.UK standards
 title: Writing guidelines
 description: Learn how to write effective and clear content for GOV.UH.
 redirect_from: /writing-to-gov-uh-standards/tone-of-voice
