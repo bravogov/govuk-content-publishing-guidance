@@ -51,7 +51,8 @@ export default function(eleventyConfig) {
     titleSuffix: 'GOV.UH content and publishing guidance',
     showBreadcrumbs: true,
     stylesheets: [
-      '/assets/styles.css'
+      '/assets/styles.css',
+      '/assets/uh/guidance-header.css'
     ],
     header: {
       logotype: { html: '<img src="/assets/uh/gov-uh-site-identity-logo.svg" alt="GOV.UH" width="162" height="30">' },
