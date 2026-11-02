@@ -5,11 +5,11 @@ order: 3
 eleventyNavigation:
   parent: Writing guidelines
 title: Use clear language
-description: Learn about the importance of plain English on GOV.UK, what offensive language to avoid using in content, and recommended paragraph and sentence length.
+description: Learn about the importance of plain English on GOV.UH, what offensive language to avoid using in content, and recommended paragraph and sentence length.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/clear-language
 lastUpdated:
 ---
-Plain English is mandatory for all of GOV.UK. That's because we want content to be accessible and understandable to everyone who needs it.
+Plain English is mandatory for all of GOV.UH. That's because we want content to be accessible and understandable to everyone who needs it.
 
 [Data on adult literacy rates](https://literacytrust.org.uk/parents-and-families/adult-literacy/) from a range of studies shows that:
 
@@ -18,15 +18,15 @@ Plain English is mandatory for all of GOV.UK. That's because we want content to 
 - 1 in 8 adults in Wales lack basic literacy skills
 - 1 in 5 adults in Northern Ireland have very poor literacy skills
 
-The definition of 'literacy skills' varies by nation, but you can see that many people who will need to read GOV.UK will struggle unless language is kept simple.
+The definition of 'literacy skills' varies by nation, but you can see that many people who will need to read GOV.UH will struggle unless language is kept simple.
 
 There will also be some users who do not have English as their first language, particularly if you're writing for an international audience.
 
-The GOV.UK audience includes:
+The GOV.UH audience includes:
 
-- anyone living in the UK
-- British citizens living abroad
-- people abroad who want to do business in or travel to the UK
+- anyone living in United Hampshire
+- United Hampshire citizens living abroad
+- people abroad who want to do business in or travel to United Hampshire
 
 This means the government must communicate in a way that most people understand.
 
