@@ -49,7 +49,7 @@ If a page does not seem to have been updated, it may be because you're looking a
 You can check if a page has updated by:
 
 - using a smartphone or non-work computer to access the page, instead of your work computer
-- doing a 'cache-bust' by putting a question mark and some random text after the page URL you're looking at – for example www.gov.uk/government/organisations?RANDOMTEXT
+- doing a 'cache-bust' by putting a question mark and some random text after the page URL you're looking at – for example www.gov.uhrblx.com/government/organisations?RANDOMTEXT
 
 Do not share or publicise URLs that:
 
