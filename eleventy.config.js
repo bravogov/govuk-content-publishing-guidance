@@ -114,7 +114,7 @@ export default function(eleventyConfig) {
             text: "Privacy notice"
           },
         ],
-        html: 'Published by the United Hampshire Government.',
+        html: 'Published by the Government Digital Service, part of the Department for Science, Innovation and Technology.',
       }
     },
     templates: {
