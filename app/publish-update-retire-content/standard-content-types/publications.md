@@ -195,7 +195,7 @@ After saving the page, you can add attachments and images.
 3. Search for the publication you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/political-heading.md' %}
-6. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
+6. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/writing-guidelines/right-tone/) and [formatting guidance](/formatting-content/) for help.
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
 9. {% include 'reusable-content/change-notes.md' %}
