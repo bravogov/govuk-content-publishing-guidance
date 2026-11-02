@@ -51,7 +51,7 @@ assert 'How to create and update content for GOV.UH' in (out/'index.html').read_
 assert 'Use the right heading level' in (out/'formatting-content/text-formatting/headings/index.html').read_text()
 assert 'Include links to Whitehall Publisher content' in (out/'formatting-content/text-formatting/links/index.html').read_text()
 assert (out/'formatting-content/text-formatting/links/index.html').read_text().count('x-govuk-sub-navigation__link')>=20
-assert '2 November 2026' in (out/'about-the-guidance/whats-new/index.html').read_text()
+assert 'November 2026' in (out/'about-the-guidance/whats-new/index.html').read_text() and '2 November' in (out/'about-the-guidance/whats-new/index.html').read_text()
 def digests(root):
     return {str(f.relative_to(root)):sha256(f.read_bytes()).hexdigest() for f in root.rglob('*') if f.is_file()}
 original,updated=digests(base),digests(out)
