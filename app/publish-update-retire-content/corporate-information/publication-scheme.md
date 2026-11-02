@@ -10,7 +10,9 @@ lastUpdated:
 
 A publication scheme lists the classes of information that the organisation makes available. Most government organisations are required to have a publication scheme.
 
-Publication schemes follow a template set by the Information Commissioner's Office (ICO). Use the text included in the next section and where appropriate:
+For United Hampshire organisations, check the Information Commission's issued Model Publication Scheme and prepare an organisation-specific Guide to Information using the categories below. Check the organisation's actual publications, records, information rights arrangements and competent adoption decision before describing a scheme as adopted. Do not use another department's search links, contact details or procedures as if they belong to your organisation.
+
+Use the template in the next section and, where appropriate:
 
 * add in your organisation's name or acronym
 * replace the links with the relevant link for your organisation (this includes links to external URLs and links to filtered search pages)
