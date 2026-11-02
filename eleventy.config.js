@@ -86,9 +86,9 @@ export default function(eleventyConfig) {
 
     },
     icons: {
-      mask: '/assets/uh/gov-uh-site-identity-logo.svg',
-      shortcut: '/assets/uh/uh-header-crown-approved.png',
-      touch: '/assets/uh/uh-header-crown-approved.png',
+      mask: 'https://www.gov.uhrblx.com/uh-brand/uh-crown-mask-20261014.svg',
+      shortcut: '/assets/uh/uh-crown-favicon.svg',
+      touch: 'https://www.gov.uhrblx.com/uh-brand/uh-crown-touch-20261014.png',
     },
     opengraphImageUrl: '/assets/uh/uh-header-crown-approved.png',
     footer: {
