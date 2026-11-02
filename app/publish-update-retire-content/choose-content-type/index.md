@@ -16,7 +16,7 @@ Before you make any decisions, read the [guidance on planning new content](/writ
 
 If it's mainstream content, [raise a request with the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-updates-content/). They can help you decide which mainstream content type to use.
 
-If you're publishing specialist content for the first time on GOV.UK, it's up to you to decide the right content type. Do not base your decision on how a content type looks.
+If you're publishing specialist content for the first time on GOV.UH, it's up to you to decide the right content type. Do not base your decision on how a content type looks.
 
 This is because:
 
@@ -88,8 +88,8 @@ Use the [publication content type](/publish-update-retire-content/standard-conte
 
 Use the [case study content type](/publish-update-retire-content/standard-content-types/case-studies/) if you're publishing a real example of either:
 
-- a process that's covered on GOV.UK (for example it shows someone's experience of taking part in a particular government programme)
-- an important aspect of government policy that's covered on GOV.UK (for example it shows someone's personal experience of a policy problem the government is trying to solve)
+- a process that's covered on GOV.UH (for example it shows someone's experience of taking part in a particular government programme)
+- an important aspect of government policy that's covered on GOV.UH (for example it shows someone's personal experience of a policy problem the government is trying to solve)
 
 ## If you're publicising the government's work
 
