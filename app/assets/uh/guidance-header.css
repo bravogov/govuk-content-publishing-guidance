@@ -1,13 +1,18 @@
-/* GOV.UH publishing guidance header: use the existing UH identity asset in
-   gov-uh-site-identity-logo.svg and the agreed deep-blue guidance header.
-   Scoped deliberately to this product's header, not global GOV.UH branding. */
+/* GOV.UH publishing guidance — align the header with the conventional
+   dark GOV.UK-style publishing guidance identity. The GOV.UH crown is
+   embedded in the independently controlled wordmark SVG. */
 .govuk-header.app-header {
-  background-color: #0b2f8a;
+  background-color: #0b0c0c;
   color: #ffffff;
 }
 .govuk-header.app-header .govuk-header__homepage-link,
 .govuk-header.app-header .govuk-header__product-name {
   color: #ffffff;
+}
+/* GOV.UK Frontend otherwise paints the unfocused logo link brand blue.
+   It caused the blue rectangle behind the logo even on a dark header. */
+.govuk-header.app-header .govuk-header__homepage-link:not(:focus) {
+  background-color: transparent;
 }
 .govuk-header.app-header .govuk-header__product-name {
   margin-left: 12px;
