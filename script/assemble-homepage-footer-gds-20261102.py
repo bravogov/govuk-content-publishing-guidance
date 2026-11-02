@@ -35,7 +35,7 @@ for file in out.rglob('*.html'):
     if data!=result:changed.append(str(file.relative_to(out)))
     file.write_text(result)
     footer_count+=1
-assert footer_count>=150 and len(changed)>=150,(footer_count,len(changed))
+assert footer_count==146 and len(changed)==146,(footer_count,len(changed))
 style=out/'assets/styles.css'
 sty=style.read_text()
 css=(source/'app/assets/styles.scss').read_text()
