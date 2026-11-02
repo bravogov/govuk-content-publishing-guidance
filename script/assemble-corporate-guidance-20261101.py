@@ -1,5 +1,3 @@
-[Reading 81 lines from start (total: 81 lines, 0 remaining)]
-
 #!/usr/bin/env python3
 """Assemble a controlled GOV.UH guidance edition from the verified immutable
 live baseline and three reviewed source-authored pages. Never modify the live edition.
@@ -81,5 +79,3 @@ manifest=dict(source_commit='ac13bf8a23f1fe4d6c97fd04791066c1d7956527',
 (Path(OUT.parent)/'change-manifest.json').write_text(json.dumps(manifest,indent=2,sort_keys=True))
 print('GUIDANCE_CANDIDATE_PASS 159 HTML, 165 files, changed exactly 3 authored pages')
 for x in changed:print('CHANGED',x,b[x])
-
-[executed on device: vps-0c7c0252 (73306686-c479-4f6d-8dec-135b7db0d40b)]
