@@ -4,7 +4,7 @@ sectionKey: Accounts and support
 order: 6
 eleventyNavigation:
   parent: Accounts and support
-title: How to raise requests with GDS
+title: How to raise requests with Platform Office
 description: How GDS support for GOV.UK works, including response times, how to write requests, when tickets are closed, and what to do if you're unhappy with a decision.
 lastUpdated:
 ---
