@@ -1,14 +1,24 @@
 ---
 layout: landing-page
 permalink: /writing-to-gov-uh-standards/plan-manage-content/index.html
-sectionKey: Plan and manage content
+sectionKey: Writing to GOV.UK standards
+order: 1
+eleventyNavigation:
+  parent: Writing to GOV.UH standards
 title: Plan and manage content
-description: Plan, maintain and retire government content.
+description: Understand how to design user-centred content for GOV.UH.
 lastUpdated:
 ---
+Use this guidance to understand the principles of designing user-centred content for GOV.UH. 
 
-Before creating a page, establish the user's need, the authoritative source and the institution responsible for the information. Check whether an existing page, collection or official product should instead be updated.
+This guidance includes:
 
-Use the appropriate GOV.UH content type and publisher. Agree substantive copy with the responsible policy, operational or legal owner. Record the source and approval, check cross-references and publish through the authorised application.
-
-When a policy or service changes, update affected pages and transactions together. Withdraw or supersede outdated content using the native publishing workflow, preserving the publication history and records required by the responsible institution.
+* the principles of content design
+* how to identify user needs and write a user need
+* how you should plan new GOV.UH content, including where it will go and how to help users find it
+* how to find and manage your existing GOV.UH content
+* how to approach accessibility
+* the standards for GOV.UH URLs
+* when you should consider adding translated versions of our content
+* how to group content into topics, collections and step-by-step pages
+* when to withdraw or unpublish content, and when content goes into 'history mode'
