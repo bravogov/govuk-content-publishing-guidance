@@ -4,11 +4,18 @@ sectionKey: About the guidance
 eleventyNavigation:
   parent: About the guidance
 title: What's new
-description: Updates to the GOV.UK content and publishing guidance.
+description: Updates to the GOV.UH content and publishing guidance.
 lastUpdated:
 ---
 
-This page sets out all recent major updates to the GOV.UK content and publishing guidance.
+This page records changes to the GOV.UH content and publishing guidance.
+
+## November 2026
+
+| Date | Section | Update |
+| --- | --- | --- |
+| 2 November | [Corporate information pages](/publish-update-retire-content/corporate-information/) | Removed the three excluded corporate information page types and updated the instructions for content ownership and reviews. |
+| 2 November | [Publications](/publish-update-retire-content/standard-content-types/publications/) | Corrected the link to the tone of voice guidance. |
 
 ## September 2026
 

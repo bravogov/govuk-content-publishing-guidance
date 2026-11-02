@@ -2,12 +2,16 @@
 layout: landing-page
 sectionKey: Formatting content
 title: Formatting content
-description: Prepare accessible text, images, documents and other supported content.
+description: Learn how to format text using markdown, and how to format images, videos and attachments. 
 lastUpdated:
+redirect_from: /formatting-content/images-videos/
 ---
 
-Use the native formatting controls of the authorised publishing application. Structure text with real headings, paragraphs and lists; use descriptive links and accessible tables; and provide suitable alternatives for images and other non-text content.
+The guidance in this topic will help you format your content for GOV.UH. Correct formatting will let you manage the appearance and usability of your content.
 
-Use attachments where an HTML page is unsuitable or an official document must retain its document form. Check the source, version, publication status, accessibility and format of every attachment. Link to authoritative records published by another institution at their own publication address.
+This guidance covers how to format:
 
-Preview and test content before publication, including keyboard navigation, mobile layout and links. Check the published page as well as the editor preview.
+- text, like adding bullet points, charts, headings and tables
+- images
+- videos
+- attachments
