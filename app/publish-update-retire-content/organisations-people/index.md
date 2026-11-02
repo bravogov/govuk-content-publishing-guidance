@@ -1,11 +1,20 @@
 ---
 layout: landing-page
-sectionKey: Organisations and people
+sectionKey: Publish update or retire content
+eleventyNavigation:
+  parent: Publish update or retire content
+  parentTitle: "Publish, update or retire content"
+order: 4
 title: Organisations and people
-description: Maintain accurate government organisation and people information.
+description: Learn how to publish, update or retire content types about government organisations or people. 
 lastUpdated:
 ---
 
-Organisation pages, ministerial roles and people pages must reflect current authoritative appointments and machinery decisions. Check the responsible institution, classification, parent relationships, responsibilities, people and contact details before editing.
+Some content types are for information about government organisations, or people working across government. 
 
-Use the existing Whitehall organisation and people publishing functions. A change to a directory page does not establish, abolish or transfer an institution or legal responsibility. Where responsibilities change, update affected records and publications against the competent decision.
+These are:
+
+* group pages (for groups within organisations, such as policy advisory groups)
+* organisation pages (such as departments, agencies or arms length bodies)
+* people and role pages (such as ministers or senior department staff)
+* worldwide pages (which cover United Hampshire Government organisations operating abroad, news stories about the work they do and links to services they run)
