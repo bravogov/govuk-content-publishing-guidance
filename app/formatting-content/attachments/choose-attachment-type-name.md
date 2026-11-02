@@ -38,7 +38,7 @@ You need to choose a file type based on the purpose of your attachment and the c
 
 | Attachment type    | File types to use |
 | --- | --- |
-| Guidance, papers, reports and other documents that users only need to read | Use HTML if the content type is a publication, call for evidence or consultation and it’s in English or another [available language on GOV.UK](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/#languages-you-can-use).</br></br>If it's a different content type or language, use both ODT and another format like DOCX or PDF/A so users with different software can open it |
+| Guidance, papers, reports and other documents that users only need to read | Use HTML if the content type is a publication, call for evidence or consultation and it’s in English or another [available language on GOV.UH](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/#languages-you-can-use).</br></br>If it's a different content type or language, use both ODT and another format like DOCX or PDF/A so users with different software can open it |
 | Forms and other documents that users need to edit on their computer | Use ODT and another editable format like DOCX or PDF, so users with different editing software can open it |
 | Leaflets, booklets, forms that users need to print out and fill in by hand, as well as other documents with a fixed layout for printing | Use PDF/A |
 | Easy Reads | Use PDF/A, as you cannot create Easy Reads in HTML |
