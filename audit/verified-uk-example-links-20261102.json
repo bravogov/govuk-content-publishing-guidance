@@ -1,0 +1,645 @@
+{
+  "reason": "Restore only originally UK example links erroneously repointed at missing GOV.UH pages, each UK target HTTP 200 on 2026-11-02",
+  "references": [
+    {
+      "from": "http://webarchive.nationalarchives.gov.uk/20180807221702/https://www.gov.uhrblx.com/settled-status-eu-citizens-families",
+      "to": "http://webarchive.nationalarchives.gov.uk/20180807221702/https://www.gov.uk/settled-status-eu-citizens-families",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com//government/publications/election-guidance-for-civil-servants",
+      "to": "https://www.gov.uk/government/publications/election-guidance-for-civil-servants",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/aaib-reports",
+      "to": "https://www.gov.uk/aaib-reports",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/advertise-job",
+      "to": "https://www.gov.uk/advertise-job",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/algorithmic-transparency-records",
+      "to": "https://www.gov.uk/algorithmic-transparency-records",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/apply-for-and-manage-a-gov-uk-domain-name",
+      "to": "https://www.gov.uk/apply-for-and-manage-a-gov-uk-domain-name",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/apply-marriage-allowance",
+      "to": "https://www.gov.uk/apply-marriage-allowance",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/bankruptcy",
+      "to": "https://www.gov.uk/bankruptcy",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/browse/environment-countryside",
+      "to": "https://www.gov.uk/browse/environment-countryside",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/browse/environment-countryside/boats-waterways",
+      "to": "https://www.gov.uk/browse/environment-countryside/boats-waterways",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/call-charges",
+      "to": "https://www.gov.uk/call-charges",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/check-benefits-financial-support",
+      "to": "https://www.gov.uk/check-benefits-financial-support",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/contact-electoral-registration-office",
+      "to": "https://www.gov.uk/contact-electoral-registration-office",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/contracts-finder",
+      "to": "https://www.gov.uk/contracts-finder",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/design-principles",
+      "to": "https://www.gov.uk/design-principles",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/education",
+      "to": "https://www.gov.uk/education",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/find-licences",
+      "to": "https://www.gov.uk/find-licences",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/find-licences/food-examiner-appointment-england-northern-ireland-wales",
+      "to": "https://www.gov.uk/find-licences/food-examiner-appointment-england-northern-ireland-wales",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/find-licences/premises-licence",
+      "to": "https://www.gov.uk/find-licences/premises-licence",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/find-licences/register-as-number-plate-supplier/dvla",
+      "to": "https://www.gov.uk/find-licences/register-as-number-plate-supplier/dvla",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/find-theory-test-centre",
+      "to": "https://www.gov.uk/find-theory-test-centre",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/foreign-travel-advice",
+      "to": "https://www.gov.uk/foreign-travel-advice",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging",
+      "to": "https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40",
+      "to": "https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/collections/how-to-publish-central-government-transparency-data",
+      "to": "https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/collections/national-driving-and-riding-standards",
+      "to": "https://www.gov.uk/government/collections/national-driving-and-riding-standards",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/consultations/review-of-the-default-fund-charge-cap-and-standardised-cost-disclosure",
+      "to": "https://www.gov.uk/government/consultations/review-of-the-default-fund-charge-cap-and-standardised-cost-disclosure",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/consultations/visiting-in-care-homes-hospitals-and-hospices",
+      "to": "https://www.gov.uk/government/consultations/visiting-in-care-homes-hospitals-and-hospices",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/fatalities/sergeant-duane-baz-barwood-raf-killed-in-iraq",
+      "to": "https://www.gov.uk/government/fatalities/sergeant-duane-baz-barwood-raf-killed-in-iraq",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/fields-of-operation",
+      "to": "https://www.gov.uk/government/fields-of-operation",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/groups/advisory-group-on-hepatitis",
+      "to": "https://www.gov.uk/government/groups/advisory-group-on-hepatitis",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/groups/business-ambassadors",
+      "to": "https://www.gov.uk/government/groups/business-ambassadors",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/groups/dwp-customer-equality-reference-group",
+      "to": "https://www.gov.uk/government/groups/dwp-customer-equality-reference-group",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/groups/farming-advice-service",
+      "to": "https://www.gov.uk/government/groups/farming-advice-service",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/groups/group-litigation-order-glo-compensation-scheme-advisory-board",
+      "to": "https://www.gov.uk/government/groups/group-litigation-order-glo-compensation-scheme-advisory-board",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/ministers/secretary-of-state-for-transport",
+      "to": "https://www.gov.uk/government/ministers/secretary-of-state-for-transport",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/news/cargo-on-direct-flights-from-bangladesh-to-the-uk",
+      "to": "https://www.gov.uk/government/news/cargo-on-direct-flights-from-bangladesh-to-the-uk",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/news/king-charles-iii-birthday-celebrates-uk-nations-and-cambodia-ties",
+      "to": "https://www.gov.uk/government/news/king-charles-iii-birthday-celebrates-uk-nations-and-cambodia-ties",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/news/more-than-22-million-people-in-uk-receive-first-dose-of-covid-19-vaccine",
+      "to": "https://www.gov.uk/government/news/more-than-22-million-people-in-uk-receive-first-dose-of-covid-19-vaccine",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/news/ofsted-inspections-to-be-done-remotely-until-half-term",
+      "to": "https://www.gov.uk/government/news/ofsted-inspections-to-be-done-remotely-until-half-term",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/news/woolwich-incident-government-response",
+      "to": "https://www.gov.uk/government/news/woolwich-incident-government-response",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/advisory-committee-on-releases-to-the-environment/about/terms-of-reference",
+      "to": "https://www.gov.uk/government/organisations/advisory-committee-on-releases-to-the-environment/about/terms-of-reference",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/agricultural-wages-committee-x13",
+      "to": "https://www.gov.uk/government/organisations/agricultural-wages-committee-x13",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/companies-house",
+      "to": "https://www.gov.uk/government/organisations/companies-house",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/council-for-science-and-technology/about/membership",
+      "to": "https://www.gov.uk/government/organisations/council-for-science-and-technology/about/membership",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/department-for-education-and-skills",
+      "to": "https://www.gov.uk/government/organisations/department-for-education-and-skills",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/department-for-energy-security-and-net-zero",
+      "to": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/department-for-levelling-up-housing-and-communities",
+      "to": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/design-council",
+      "to": "https://www.gov.uk/government/organisations/design-council",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/driving-standards-agency",
+      "to": "https://www.gov.uk/government/organisations/driving-standards-agency",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/environment-agency/about/recruitment",
+      "to": "https://www.gov.uk/government/organisations/environment-agency/about/recruitment",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/foreign-commonwealth-development-office/about/our-governance",
+      "to": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office/about/our-governance",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/ministry-of-defence/about/complaints-procedure",
+      "to": "https://www.gov.uk/government/organisations/ministry-of-defence/about/complaints-procedure",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/ministry-of-housing-communities-local-government/about/statistics",
+      "to": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/office-for-artificial-intelligence",
+      "to": "https://www.gov.uk/government/organisations/office-for-artificial-intelligence",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/ofsted/about/media-enquiries",
+      "to": "https://www.gov.uk/government/organisations/ofsted/about/media-enquiries",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/organisations/western-health-and-social-services-board",
+      "to": "https://www.gov.uk/government/organisations/western-health-and-social-services-board",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/people/aarti-thakor",
+      "to": "https://www.gov.uk/government/people/aarti-thakor",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/bbc-mid-term-review-2024",
+      "to": "https://www.gov.uk/government/publications/bbc-mid-term-review-2024",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/charity-fundraising-a-guide-to-trustee-duties-cc20",
+      "to": "https://www.gov.uk/government/publications/charity-fundraising-a-guide-to-trustee-duties-cc20",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/climate-related-job-posts-at-the-security-industry-authority",
+      "to": "https://www.gov.uk/government/publications/climate-related-job-posts-at-the-security-industry-authority",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/consultation-principles-guidance",
+      "to": "https://www.gov.uk/government/publications/consultation-principles-guidance",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026",
+      "to": "https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/covid-19-vaccination-uptake-plan",
+      "to": "https://www.gov.uk/government/publications/covid-19-vaccination-uptake-plan",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/dft-senior-officials-business-expenses-and-meetings-april-to-june-2018",
+      "to": "https://www.gov.uk/government/publications/dft-senior-officials-business-expenses-and-meetings-april-to-june-2018",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/digital-and-technology-spend-control-version-6",
+      "to": "https://www.gov.uk/government/publications/digital-and-technology-spend-control-version-6",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/election-guidance-for-civil-servants",
+      "to": "https://www.gov.uk/government/publications/election-guidance-for-civil-servants",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/england-coast-path-overview-of-progress",
+      "to": "https://www.gov.uk/government/publications/england-coast-path-overview-of-progress",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/examples-of-visual-content-to-use-on-govuk/examples-of-visual-content-to-use-on-govuk",
+      "to": "https://www.gov.uk/government/publications/examples-of-visual-content-to-use-on-govuk/examples-of-visual-content-to-use-on-govuk",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/flu-vaccination-leaflets-and-posters",
+      "to": "https://www.gov.uk/government/publications/flu-vaccination-leaflets-and-posters",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/gangmasters-and-labour-abuse-authority-annual-report-and-accounts-2024-to-2025",
+      "to": "https://www.gov.uk/government/publications/gangmasters-and-labour-abuse-authority-annual-report-and-accounts-2024-to-2025",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/government-response-to-oeps-report-on-the-implementation-of-the-water-framework-directive-regulations-and-river-basin-management-planning",
+      "to": "https://www.gov.uk/government/publications/government-response-to-oeps-report-on-the-implementation-of-the-water-framework-directive-regulations-and-river-basin-management-planning",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/govuk-content-principles-conventions-and-research-background",
+      "to": "https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/govuk-proposition",
+      "to": "https://www.gov.uk/government/publications/govuk-proposition",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/govuk-proposition/govuk-proposition",
+      "to": "https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
+      "to": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/how-content-requests-from-government-get-published/mainstream-content-publishing-process",
+      "to": "https://www.gov.uk/government/publications/how-content-requests-from-government-get-published/mainstream-content-publishing-process",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/iiac-annual-report-2019-to-2020--2",
+      "to": "https://www.gov.uk/government/publications/iiac-annual-report-2019-to-2020--2",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/inclusive-communication/accessible-communication-formats",
+      "to": "https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability",
+      "to": "https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "to": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/notice-of-authorised-amendments-naa-reference-table",
+      "to": "https://www.gov.uk/government/publications/notice-of-authorised-amendments-naa-reference-table",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/pet-travel-declaration-for-the-non-commercial-movement-of-animals",
+      "to": "https://www.gov.uk/government/publications/pet-travel-declaration-for-the-non-commercial-movement-of-animals",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi-30-december-2020",
+      "to": "https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi-30-december-2020",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/sample-accessible-document-policy",
+      "to": "https://www.gov.uk/government/publications/sample-accessible-document-policy",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/skills-england-standards-for-official-statistics",
+      "to": "https://www.gov.uk/government/publications/skills-england-standards-for-official-statistics",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/tax-changes-for-short-term-business-visitors",
+      "to": "https://www.gov.uk/government/publications/tax-changes-for-short-term-business-visitors",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/understanding-disabilities-and-impairments-user-profiles",
+      "to": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/update-to-hasc-on-windrush-28-april-2020",
+      "to": "https://www.gov.uk/government/publications/update-to-hasc-on-windrush-28-april-2020",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/usa-tax-treaties",
+      "to": "https://www.gov.uk/government/publications/usa-tax-treaties",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/walton-farms-limited-application-made-to-abstract-take-water",
+      "to": "https://www.gov.uk/government/publications/walton-farms-limited-application-made-to-abstract-take-water",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/publications/wild-birds-licence-to-kill-or-take-for-conservation-purposes-gl40",
+      "to": "https://www.gov.uk/government/publications/wild-birds-licence-to-kill-or-take-for-conservation-purposes-gl40",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026",
+      "to": "https://www.gov.uk/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/light-dues-for-the-year-2021-to-2022",
+      "to": "https://www.gov.uk/government/speeches/light-dues-for-the-year-2021-to-2022",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/minister-falconer-article-on-syria-anniversary-december-2025",
+      "to": "https://www.gov.uk/government/speeches/minister-falconer-article-on-syria-anniversary-december-2025",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/presentation-by-the-uk-chairperson-of-the-osce-security-committee-ambassador-neil-bush",
+      "to": "https://www.gov.uk/government/speeches/presentation-by-the-uk-chairperson-of-the-osce-security-committee-ambassador-neil-bush",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/registered-charity-status-a-social-contract",
+      "to": "https://www.gov.uk/government/speeches/registered-charity-status-a-social-contract",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/speeches/strengthening-our-health-protection-at-the-border",
+      "to": "https://www.gov.uk/government/speeches/strengthening-our-health-protection-at-the-border",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/statistical-data-sets/companies-house-management-information-identity-verification-january-to-march-2026",
+      "to": "https://www.gov.uk/government/statistical-data-sets/companies-house-management-information-identity-verification-january-to-march-2026",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/statistics/cold-weather-payment-estimates-2020-to-2021",
+      "to": "https://www.gov.uk/government/statistics/cold-weather-payment-estimates-2020-to-2021",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/government/topical-events/ebola-virus-government-response",
+      "to": "https://www.gov.uk/government/topical-events/ebola-virus-government-response",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+      "to": "https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/cites-imports-and-exports",
+      "to": "https://www.gov.uk/guidance/cites-imports-and-exports",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/convert-to-an-academy-information-for-schools",
+      "to": "https://www.gov.uk/guidance/convert-to-an-academy-information-for-schools",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/govuk-transition-guidance-for-agencies",
+      "to": "https://www.gov.uk/guidance/govuk-transition-guidance-for-agencies",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/guidance-and-tools-for-digital-accessibility",
+      "to": "https://www.gov.uk/guidance/guidance-and-tools-for-digital-accessibility",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/publishing-accessible-documents",
+      "to": "https://www.gov.uk/guidance/publishing-accessible-documents",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/request-an-exemption-from-using-the-govuk-website",
+      "to": "https://www.gov.uk/guidance/request-an-exemption-from-using-the-govuk-website",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/set-up-and-run-an-authorised-testing-facility-atf-for-vehicle-tests",
+      "to": "https://www.gov.uk/guidance/set-up-and-run-an-authorised-testing-facility-atf-for-vehicle-tests",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/guidance/share-fisherman-income-tax-and-national-insurance-contributions",
+      "to": "https://www.gov.uk/guidance/share-fisherman-income-tax-and-national-insurance-contributions",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/help-with-childcare-costs/tax-free-childcare",
+      "to": "https://www.gov.uk/help-with-childcare-costs/tax-free-childcare",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/learn-to-drive-a-car",
+      "to": "https://www.gov.uk/learn-to-drive-a-car",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/national-insurance/how-much-you-pay",
+      "to": "https://www.gov.uk/national-insurance/how-much-you-pay",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/pay-council-tax",
+      "to": "https://www.gov.uk/pay-council-tax",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/prison-visits",
+      "to": "https://www.gov.uk/prison-visits",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/design/collecting-personal-information-from-users",
+      "to": "https://www.gov.uk/service-manual/design/collecting-personal-information-from-users",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/helping-people-to-use-your-service/understanding-wcag",
+      "to": "https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/measuring-success/measuring-user-satisfaction",
+      "to": "https://www.gov.uk/service-manual/measuring-success/measuring-user-satisfaction",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/service-assessments/check-if-need-to-meet-service-standard",
+      "to": "https://www.gov.uk/service-manual/service-assessments/check-if-need-to-meet-service-standard",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/service-assessments/get-feedback-page",
+      "to": "https://www.gov.uk/service-manual/service-assessments/get-feedback-page",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/service-standard",
+      "to": "https://www.gov.uk/service-manual/service-standard",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/technology/get-a-domain-name",
+      "to": "https://www.gov.uk/service-manual/technology/get-a-domain-name",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/technology/working-with-cookies-and-similar-technologies",
+      "to": "https://www.gov.uk/service-manual/technology/working-with-cookies-and-similar-technologies",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/service-manual/user-researchers",
+      "to": "https://www.gov.uk/service-manual/user-researchers",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/world/france",
+      "to": "https://www.gov.uk/world/france",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/world/france/news",
+      "to": "https://www.gov.uk/world/france/news",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/world/organisations/british-embassy-paris",
+      "to": "https://www.gov.uk/world/organisations/british-embassy-paris",
+      "status_verified": 200
+    },
+    {
+      "from": "https://www.gov.uhrblx.com/world/uk-mission-to-the-united-nations-new-york",
+      "to": "https://www.gov.uk/world/uk-mission-to-the-united-nations-new-york",
+      "status_verified": 200
+    }
+  ]
+}
