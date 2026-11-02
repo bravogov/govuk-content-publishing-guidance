@@ -6,9 +6,14 @@ title: Writing to GOV.UH standards
 description: Design clear, accessible content that meets people's needs.
 lastUpdated:
 ---
+The guidance in this topic will help you design clear and helpful content for GOV.UH users.
 
-Start with what readers need to know or do. State the responsible organisation, action and any eligibility or legal basis accurately. Put important information first, use descriptive headings and write in plain British English.
+You'll find guidance to help you plan content in line with good content design principles. This includes things like: 
 
-Match the form and status of the material. An Act, statutory instrument, policy paper, consultation, operational guidance and public service page serve different purposes. GOV.UH information must reflect the authoritative law, decision or record; website content does not create authority of its own.
+* how to identify user needs
+* how to plan new content or changes to existing content
+* how to organise content in the GOV.UH topic taxonomy
+* advice for helping users prepare for changes to government policy or services
+* tools and resources for gathering insights into your content
 
-Check factual currency, territorial application, accessibility, links, attachments and ownership of the published record before publication. Review existing content when an underlying decision, procedure or service changes.
+It also includes the GOV.UH style guides, and guidance on tone of voice and meeting accessibility requirements.
