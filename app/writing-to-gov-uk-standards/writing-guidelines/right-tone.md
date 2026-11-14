@@ -1,15 +1,15 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 4
 eleventyNavigation:
   parent: Writing guidelines
 title: Use the right tone
-description: Learn about the tone of voice for GOV.UK content, including what words to avoid and how to address users.
+description: Learn about the tone of voice for GOV.UH content, including what words to avoid and how to address users.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/right-tone
 lastUpdated:
 ---
-The 'tone of voice' for GOV.UK content is:
+The 'tone of voice' for GOV.UH content is:
 
 - specific
 - informative
@@ -29,7 +29,7 @@ Do not use block capitals for large amounts of text. It's hard to read and it ca
 
 ## Do not use offensive language
 
-You must not use offensive words or terms in GOV.UK content, including attachments.
+You must not use offensive words or terms in GOV.UH content, including attachments.
 
 This includes using swear words and words in an offensive context about:
 
@@ -49,7 +49,7 @@ Tribunal decisions published by HM Courts and Tribunals Service are exempt. This
 For help avoiding offensive terms, read more about:
 
 - [writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity/)
-- [words to use and avoid when writing about disability](https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability)
+- words to use and avoid when writing about disability
 
 ## Address the user directly
 

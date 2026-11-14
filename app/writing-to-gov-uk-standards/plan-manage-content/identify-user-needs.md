@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 2
 eleventyNavigation:
   parent: Plan and manage content
@@ -8,7 +8,7 @@ title: Identify user needs
 description: Figure out what your users need from your content, and learn how to write user stories and acceptance criteria.
 lastUpdated:
 ---
-User needs are the needs that our users have when they come to GOV.UK. People visit GOV.UK to help them fulfil a certain task, like apply for a driving licence or find out how to vote.
+User needs describe what people are trying to do when they use GOV.UH. People come to GOV.UH to complete a task, access a service or find reliable information, for example to find out how to vote.
 
 Every piece of published content should meet a valid user need.
 
@@ -38,7 +38,7 @@ If you feel like you cannot learn enough from your users this way, try to work w
 
 ## Write a user need
 
-All GOV.UK user needs follow the same template, with 3 parts.
+All GOV.UH user needs follow the same template, with 3 parts.
 
 As a… [who is the user?]
 
@@ -54,22 +54,22 @@ Do not begin the user need with 'as a user.' Most government policies and legisl
 
 A user does not have to be just one person. It can mean a broad group of people, if their relationship to the need is the same.
 
-For example, someone applying for a child's passport could be a parent, or 'someone with parental responsibility.' This could be a grandparent, foster carer or legal guardian. You would not need to write a separate need for each one if the need is the same. If there are different needs for each user group, they would each need their own user need. 
+For example, someone applying for an identity document could be a parent, or 'someone with parental responsibility.' This could be a grandparent, foster carer or legal guardian. You would not need to write a separate need for each one if the need is the same. If there are different needs for each user group, they would each need their own user need. 
 
 Other user groups can be more vague, but are still defined as more than just a 'user', such as:
 
 * a business
-* a person who has reached state pension age
+* a person seeking information about an applicable pension scheme
 * an exporter
 * a company
 * a teacher
-* someone who wants to work in the UK
+* someone who wants to work in United Hampshire
 * someone who wants to settle
 * a vehicle owner
 
 ### What the user wants to do and why
 
-User needs and GOV.UK content must be based on actions or tasks.
+User needs and GOV.UH content must be based on actions or tasks.
 
 Active user needs are things like:
 
@@ -108,7 +108,7 @@ As a carer,
 
 I need to use a benefits calculator,
 
-So that I can find out if I can get Carer's Allowance.
+So that I can find out if I can get a relevant support payment.
 
 This is not a valid user need because it creates a 'need' to justify existing content, and suggests a specific solution that may or may not be right. 
 
@@ -120,9 +120,9 @@ Acceptance criteria can help define a user need by listing what must be done for
 
 For example, from the 'good example' used above, the acceptance criteria could be when the user:
 
-* understands what Carer's Allowance is
+* understands what a relevant support payment is
 * understands if they're eligible
-* can apply for Carer's Allowance
+* can apply for a relevant support payment
 * understands how much they are entitled to
 
 ## Record user needs
@@ -131,7 +131,7 @@ You should record and store any user needs for content you create. You may find 
 
 * when the user need is met (acceptance criteria)
 * any supporting evidence for the need
-* why the need is in [proposition for GOV.UK](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition)
+* why the content is appropriate for GOV.UH and the responsible publishing organisation
 
 The primary publishing organisation (the organisation responsible for owning, publishing and maintaining the content) should maintain a record of user needs and content meeting that need.
 

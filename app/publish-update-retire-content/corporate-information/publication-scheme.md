@@ -26,11 +26,11 @@ When you create a publication scheme, a link to it will appear automatically in 
 
 This publication scheme specifies the categories of information that the department and its agencies regularly publish and explains how to get that information.
 
-You can find specific documents for this department using the [publication search](https://www.gov.uk/search/all?organisations[]=department-for-education&order=updated-newest&parent=department-for-education). 
+You can find specific documents for this department using the publication search. 
 
-If the information you want is not routinely published, you can [make a request for it](https://www.gov.uk/make-a-freedom-of-information-request) under the Freedom of Information Act.
+If the information you want is not routinely published, you can [make a request for it](https://www.gov.uhrblx.com/make-a-freedom-of-information-request) under the Freedom of Information Act.
 
-You can also search through [previous responses to Freedom of Information (FOI) requests](https://www.gov.uk/search/transparency-and-freedom-of-information-releases?content_store_document_type=foi_release&keywords=) (or amend this filtered search so it returns results for your organisation alone).
+You can also search through [previous responses to Freedom of Information (FOI) requests](https://www.gov.uhrblx.com/search/transparency-and-freedom-of-information-releases?content_store_document_type=foi_release&keywords=) (or amend this filtered search so it returns results for your organisation alone).
 
 ### Who we are and what we do
 
@@ -61,9 +61,9 @@ This is where we publish financial information about projected and actual income
 * the [financial audit reports published by the National Audit Office](http://www.nao.org.uk/search/type/report/) 
 * our [ministers' allowances and expenses] (create your own document collection to collate these and link to it)
 * our [senior staff and board members' allowances and expenses] (create your own document collection to collate these and link to it)
-* our [senior staff pay and grading structures] (link directly to these on GOV.UK, or to relevant data.gov information)
-* our [junior staff pay and grading structures] (link directly to these on GOV.UK, or to relevant data.gov information)
-* our [senior advisers' salaries and salary ranges] (link directly to these on GOV.UK, or to relevant data.gov information)
+* our [senior staff pay and grading structures] (link directly to these on GOV.UH, or to relevant data.gov information)
+* our [junior staff pay and grading structures] (link directly to these on GOV.UH, or to relevant data.gov information)
+* our [senior advisers' salaries and salary ranges] (link directly to these on GOV.UH, or to relevant data.gov information)
 * our [procurement procedures] (link to the organisation’s actual published policies, contracts or procurement information, where applicable)
 * our [financial statements for projects and events] (remove this if not applicable, or create a collection to collate these and link to them)
 * [internal financial regulations]
@@ -88,8 +88,8 @@ This category covers departmental strategies and plans, performance indicators, 
 
 This is where we publish details of our decision-making processes and records of our decisions. These include:
 
-* the department's [major policy proposals and decisions](https://www.gov.uk/search/policy-papers-and-consultations?parent=department-for-education&content_store_document_type%5B%5D=policy_papers&organisations%5B%5D=department-for-education&order=updated-newest) 
-* our [public consultations](https://www.gov.uk/search/policy-papers-and-consultations?content_store_document_type%5B%5D=open_consultations&content_store_document_type%5B%5D=closed_consultations&keywords=&organisations%5B%5D=department-for-education) 
+* the department's [major policy proposals and decisions](https://www.gov.uhrblx.com/search/policy-papers-and-consultations?parent=department-for-education&content_store_document_type%5B%5D=policy_papers&organisations%5B%5D=department-for-education&order=updated-newest) 
+* our [public consultations](https://www.gov.uhrblx.com/search/policy-papers-and-consultations?content_store_document_type%5B%5D=open_consultations&content_store_document_type%5B%5D=closed_consultations&keywords=&organisations%5B%5D=department-for-education) 
 * the [minutes of senior-level meetings]
 
 ### Our policies and procedures

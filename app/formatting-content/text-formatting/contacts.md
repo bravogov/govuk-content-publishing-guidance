@@ -38,7 +38,7 @@ Department for Examples
 Telephone: 08081 570 422
 Monday to Friday, 8am to 6pm
 Saturday, 9am to 1pm
-[Find out about call charges](https://www.gov.uk/call-charges)
+Find out about call charges
 $A
 
 For help with writing out phone numbers, read the [style guide entry on telephone numbers](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#telephone-numbers).

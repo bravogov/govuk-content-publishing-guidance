@@ -53,4 +53,4 @@ You should also:
 * attach the organisation's subject access request form or standard letter (if it has one)
 * link to the organisation's entry in the register of data controllers for people who want to find out more about how the organisation handles personal data
 
-View [a good example of a 'Personal information charter' page](https://www.gov.uk/government/organisations/charity-commission/about/personal-information-charter). 
+View a good example of a 'Personal information charter' page. 

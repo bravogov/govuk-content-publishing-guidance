@@ -23,7 +23,7 @@ You should create and attach different accessible versions of the document. That
 - HTML versions
 - 'web' and 'print' PDF/A versions
 
-For help with that, read the [guidance on creating accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents) and the [guidance on planning 'web-optimised' and 'print-ready' papers from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/parliamentary-papers-planning-checklist/).
+For help with that, read the guidance on creating accessible documents and the [guidance on planning 'web-optimised' and 'print-ready' papers from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/parliamentary-papers-planning-checklist/).
 
 ## Create a new official document
 
@@ -43,7 +43,7 @@ Command papers must also have:
 - the month and year the paper was laid before Parliament
 - the Command Paper number (CP)
 
-[See an example of a command paper](https://www.gov.uk/government/consultations/visiting-in-care-homes-hospitals-and-hospices).
+See an example of a command paper.
 
 ### House of Commons papers
 
@@ -53,13 +53,13 @@ House of Commons papers must also have:
 - the date is was ordered to be printed, such as: 'Ordered by the House of Commons to be printed on 12 October 2018'
 - the House of Commons number (HC XXXX)
 
-[See an example of a House of Commons paper](https://www.gov.uk/government/publications/gangmasters-and-labour-abuse-authority-annual-report-and-accounts-2024-to-2025).
+See an example of a House of Commons paper.
 
 ### Unnumbered act papers
 
 Unnumbered act papers must also have a statement to explain how the paper was presented to Parliament, such as: 'Presented to Parliament pursuant to section 7 of the Government Resources and Accounts Act 2000'.
 
-[See an example of an unnumbered act paper](https://www.gov.uk/government/publications/government-response-to-oeps-report-on-the-implementation-of-the-water-framework-directive-regulations-and-river-basin-management-planning).
+See an example of an unnumbered act paper.
 
 ## Update already published official documents
 

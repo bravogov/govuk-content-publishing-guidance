@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Subscript and superscript
-description: If you're writing out chemical names or measurements in GOV.UK content, add subscript and superscript with Govspeak Markdown code.
+description: If you're writing out chemical names or measurements in GOV.UH content, add subscript and superscript with Govspeak Markdown code.
 lastUpdated:
 ---
 

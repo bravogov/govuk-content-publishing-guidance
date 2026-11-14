@@ -23,7 +23,7 @@ Do not use bold text instead of hashtags. This is inaccessible because a screen 
 
 There's no need to use this code in the page title and summary. They are styled automatically.
 
-See the section about headings in the [content structuring guidance](/writing-to-gov-uh-standards/writing-guidelines/clear-structure/) for more help with writing headings.
+See the section about headings in the [content structuring guidance](/writing-to-gov-uk-standards/writing-guidelines/clear-structure/) for more help with writing headings.
 
 ## Use the right heading level
 

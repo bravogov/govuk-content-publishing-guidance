@@ -5,7 +5,7 @@ order: 5
 eleventyNavigation:
   parent: Formatting content
 title: Content blocks
-description: Create and update content blocks with Content Block Manager and add them to GOV.UK content.
+description: Create and update content blocks with Content Block Manager and add them to GOV.UH content.
 lastUpdated:
 ---
 
@@ -13,7 +13,7 @@ lastUpdated:
 
 Content blocks are short bits of information that can be reused across multiple pieces of content and can be easily updated in one place.
 
-For example, a specific pension rate is one block of information that might appear in 50 pages on GOV.UK. If that pension rate changes, it can be changed once rather than updating it manually 50 times. It will then automatically update on each page the block is used.
+For example, a specific pension rate is one block of information that might appear in 50 pages on GOV.UH. If that pension rate changes, it can be changed once rather than updating it manually 50 times. It will then automatically update on each page the block is used.
 
 You can use content blocks if you have access to Content Block Manager.
 
@@ -21,7 +21,7 @@ You can use content blocks if you have access to Content Block Manager.
 
 Content Block Manager is currently in private beta. This means currently only some publishers are being given access for testing.
 
-If you’re given access, it will be on your list of applications on the [Signon homepage](https://signon.publishing.service.gov.uk/).
+If you’re given access, it will be on your list of applications on the [Signon homepage](https://signon.publishing.service.gov.uhrblx.com/).
 
 If it does not show on your applications list and you’re part of the private beta, email the Government Digital Service (GDS) Content Modelling team.
 
@@ -103,7 +103,7 @@ If you have a telephone contact block with more than one phone number in it, you
 
 Go to the Content Block Manager homepage and search or scroll to the block you want to edit. Select the ‘View’ link in the top right corner of the block. The banner at the top of the ‘View’ page will tell you:
 
-* how many pages the block is used on across GOV.UK
+* how many pages the block is used on across GOV.UH
 * the total number of times the block is used (as it may be used multiple times on a page)
 * how many views it has had in the last 30 days
 * the number of organisations using the block
@@ -137,9 +137,9 @@ Your changes will show in the 'Change history' when you view the block.
 
 ### Adding a description of the changes for users
 
-GOV.UK users can subscribe to email alerts to receive public change notes. This helps the government be transparent about any changes made to public information.
+GOV.UH users can subscribe to email alerts to receive public change notes. This helps the government be transparent about any changes made to public information.
 
-If users need to know about the changes made to a block in Content Block Manager, select ‘Yes - information has been added, updated or removed’. This will send an email to GOV.UK users who have subscribed to alerts about:
+If users need to know about the changes made to a block in Content Block Manager, select ‘Yes - information has been added, updated or removed’. This will send an email to GOV.UH users who have subscribed to alerts about:
 
 * a page that uses the block
 * any taxonomy topics a page using the block is tagged to 
@@ -163,8 +163,8 @@ The embed code cannot be included in titles or meta descriptions, but will work 
 You cannot use embed codes in:
 
 * developer built smart answers
-* GOV.UK services
-* GOV.UK campaigns 
+* GOV.UH services
+* GOV.UH campaigns 
 * PDFs
 
 ### Using content blocks with other departments’ information

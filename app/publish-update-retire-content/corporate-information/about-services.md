@@ -25,4 +25,4 @@ If you create an 'About our services' page, a link to it will appear automatical
 {% include 'reusable-content/corporate-info-style-tone.md' %}
 
 
-View [a good example of an 'About our services' page](https://www.gov.uk/government/organisations/government-property-agency/about/about-our-services). 
+View [a good example of an 'About our services' page](https://www.gov.uhrblx.com/government/organisations/government-property-agency/about/about-our-services). 

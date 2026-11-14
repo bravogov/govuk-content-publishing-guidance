@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 2
 eleventyNavigation:
-  parent: Writing to GOV.UK standards
+  parent: Writing to GOV.UH standards
 title: Help users prepare for change
-description: Plan updates to GOV.UK content to reflect an upcoming change to a policy or scheme.
+description: Plan updates to GOV.UH content to reflect an upcoming change to a policy or scheme.
 lastUpdated:
 ---
 
@@ -41,9 +41,9 @@ Only publish guidance in advance if all the following apply:
 
 If users need guidance about a change in advance, you'll need to identify exactly when they need to know so that you can plan your changes.
 
-In exceptional cases, users might need reassurance in advance that something will not change or will not have a big impact on them. You must have evidence that users genuinely need this on GOV.UK (such as on-page feedback, call centre data and analytics). However, usually reassurance messaging should be channelled through communications activity outside GOV.UK.
+In exceptional cases, users might need reassurance in advance that something will not change or will not have a big impact on them. You must have evidence that users genuinely need this on GOV.UH (such as on-page feedback, call centre data and analytics). However, usually reassurance messaging should be channelled through communications activity outside GOV.UH.
 
-If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new).
 
 You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -54,7 +54,7 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -64,7 +64,7 @@ Do a basic review of existing guidance content as soon as you know roughly what'
 
 This will help you avoid duplicating content when you have to tell users about the change.
 
-Multiple pages with similar content can give users the impression that there's no single version of the truth. This can mean they lose trust in what they read on GOV.UK. It can also make it difficult for users to know where to look to find content they need.
+Multiple pages with similar content can give users the impression that there's no single version of the truth. This can mean they lose trust in what they read on GOV.UH. It can also make it difficult for users to know where to look to find content they need.
 
 ### Do an audit
 
@@ -97,10 +97,10 @@ If you have time, make general improvements too.
 
 Read the guidance about how to:
 
-- [plan new GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) – including how to help users find out about new content, such as through communications campaigns
-- [manage existing GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
+- [plan new GOV.UH content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) – including how to help users find out about new content, such as through communications campaigns
+- [manage existing GOV.UH content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
 
-This will explain how to get information about the changes published on GOV.UK.
+This will explain how to get information about the changes published on GOV.UH.
 
 How you approach the changes will depend on if it's a:
 

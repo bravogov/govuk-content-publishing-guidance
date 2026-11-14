@@ -5,11 +5,11 @@ order: 4
 eleventyNavigation:
   parent: Formatting content
 title: Attachments
-description: Learn how to add file downloads to content on GOV.UK using Govspeak Markdown code, including inline links and publication boxes.
+description: Learn how to add file downloads to content on GOV.UH using Govspeak Markdown code, including inline links and publication boxes.
 lastUpdated:
 ---
 
-You can add attachments to most content on GOV.UK. Before you do, [choose the right file type and file name for your attachments](/formatting-content/attachments/choose-attachment-type-name/) and [prepare the attachments and make them accessible](/formatting-content/attachments/prepare-attachments/).
+You can add attachments to most content on GOV.UH. Before you do, [choose the right file type and file name for your attachments](/formatting-content/attachments/choose-attachment-type-name/) and [prepare the attachments and make them accessible](/formatting-content/attachments/prepare-attachments/).
 
 Once you have prepared your attachments, read about how you can add them in the [publishing content guidance](/publish-update-retire-content/) for the content type you’re working on.
 
@@ -37,7 +37,7 @@ Otherwise, you'll be given a code after you add an attachment. You then need to 
 
 ## Examples of attachments
 
-You can see what these different codes look like in some [example guidance with attachments](https://www.gov.uk/guidance/set-up-and-run-an-authorised-testing-facility-atf-for-vehicle-tests):
+You can see what these different codes look like in some example guidance with attachments:
 
 - the 'inline' link appears under the 'What you need to set up and start testing' heading
 - the 'publication box' appears under the 'Apply to set up a test centre' heading

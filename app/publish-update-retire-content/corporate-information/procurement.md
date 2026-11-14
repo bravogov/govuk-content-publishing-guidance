@@ -16,9 +16,9 @@ Use a procurement page to:
 Do not use it for:
 
 * guidance on invoicing (suppliers can get these details from your purchasing orders)
-* anything about spending data (that's covered elsewhere on GOV.UK)
+* anything about spending data (that's covered elsewhere on GOV.UH)
 * providing lots of information about processes
-* general information about government procurement policy - for example, the obligation to publish details of central government contracts (that's covered elsewhere on GOV.UK)
+* general information about government procurement policy - for example, the obligation to publish details of central government contracts (that's covered elsewhere on GOV.UH)
 
 Explain the process in neutral terms. Do not attempt to 'sell' the organisation as a business partner.
 
@@ -37,7 +37,7 @@ Use this text for the summary:
 
 You must include a section called 'Doing business with [your organisation name]'. In it, tell people what to do if they want to become a supplier. Depending on the organisation, this might mean:
 
-* linking to the place where your contracts are advertised (for example, [Contracts Finder](https://www.gov.uk/contracts-finder))
+* linking to the place where your contracts are advertised (for example, Contracts Finder)
 * explaining how to sign up to the organisation's tendering system
 * providing an email address for procurement enquiries
 
@@ -52,4 +52,4 @@ You can also include information telling people what to do if they have a compla
 
 If the organisation publishes information on how it's improving procurement practices (for example, sustainable procurement commitments) you can link to it here. Link to this information rather than including it on the page, so the procurement page stays focused on practical guidance for potential suppliers.
 
-View [a good example of a 'Procurement at' page](https://www.gov.uk/government/organisations/department-of-health-and-social-care/about/procurement). 
+View a good example of a 'Procurement at' page. 

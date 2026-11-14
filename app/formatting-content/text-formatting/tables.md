@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Tables
-description: Add tables to GOV.UK content with Govspeak Markdown code.
+description: Add tables to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 
@@ -195,9 +195,9 @@ For example:
 | Alice Smith | Animal Book Club | Member |
 
 
-### Follow GOV.UK style
+### Follow GOV.UH style
 
-Keep text in cells concise and clear, and follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/). You can depart from this style to:
+Keep text in cells concise and clear, and follow the [GOV.UH style guides](/writing-to-gov-uk-standards/style-guides/). You can depart from this style to:
 
 - truncate the names of months to save room, for example Jan and Feb
 - use a dash to show a span between numbers, for example 500 – 900

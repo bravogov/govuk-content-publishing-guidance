@@ -16,7 +16,7 @@ You can ask the Government Digital Service (GDS) to:
 - turn off history mode
 - change the ‘associated government’ of content in history mode, if the content was first published under a different government
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+Use the [content advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -25,7 +25,7 @@ Use the [content advice form](https://support.publishing.service.gov.uk/content_
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -46,7 +46,7 @@ If you want to see all the content you have that’s in history mode, go to the 
 
 ### If GDS cannot turn off history mode
 
-If you have content in history mode that’s still current, consider if it should be in a [different content type](https://guidance.publishing.service.gov.uk/publish-update-retire-content/choose-content-type/) that will not go into history mode.
+If you have content in history mode that’s still current, consider if it should be in a [different content type](https://guidance.publishing.service.gov.uhrblx.com/publish-update-retire-content/choose-content-type/) that will not go into history mode.
 
 For example, if it has current guidance for users, consider using a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) or a ['guidance' or 'statutory guidance' publication](/publish-update-retire-content/standard-content-types/publications/). You could then either:
 

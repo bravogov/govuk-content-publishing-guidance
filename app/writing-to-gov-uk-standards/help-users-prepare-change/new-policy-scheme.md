@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 3
 eleventyNavigation:
   parent: Help users prepare for change
 title: If it's a new policy or scheme
-description: Plan updates to GOV.UK guidance if a new policy or scheme is about to come into place.
+description: Plan updates to GOV.UH guidance if a new policy or scheme is about to come into place.
 lastUpdated:
 ---
 If a new policy or scheme is being introduced users will have to do something for the first time, such as apply for a new visa or use a new service.
@@ -51,4 +51,4 @@ In 2018, the government announced that EU citizens would need to apply for a new
 
 Even though users did not need to do anything immediately, they needed to know what their options were well in advance as it would have a major impact on life decisions.
 
-[New settled status guidance was published on GOV.UK](http://webarchive.nationalarchives.gov.uk/20180807221702/https://www.gov.uk/settled-status-eu-citizens-families) in 2018 explaining who would be affected and what the process would involve.
+[New settled status guidance was published on GOV.UH](http://webarchive.nationalarchives.gov.uk/20180807221702/[UK reference not available on GOV.UH]) in 2018 explaining who would be affected and what the process would involve.

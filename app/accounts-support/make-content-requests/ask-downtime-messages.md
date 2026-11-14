@@ -8,7 +8,7 @@ title: Ask for downtime messages
 description: Learn how to request downtime messages on mainstream content directing users to your service.
 lastUpdated:
 ---
-If your service is going to be down for 2 hours or more, you should add a downtime message to GOV.UK content that links to it.
+If your service is going to be down for 2 hours or more, you should add a downtime message to GOV.UH content that links to it.
 
 You should also add a downtime message to the service itself if possible.
 
@@ -16,14 +16,14 @@ You should also add a downtime message to the service itself if possible.
 
 Who you ask depends on where you want to add the downtime message.
 
-To add a downtime message to the service itself or to 'Whitehall' content, ask your organisation's GOV.UK publishing team to do it for you.
+To add a downtime message to the service itself or to 'Whitehall' content, ask your organisation's GOV.UH publishing team to do it for you.
 
 To add a downtime message to 'mainstream' content, ask the Government Digital Service (GDS).
 
 Content is mainstream if it:
 
 - does not have ‘government’, ‘guidance’ or ‘find-licences' in its URL
-- is not part of a specialist finder, like any of the content in [‘Air Accidents Investigation Branch reports’](https://www.gov.uk/aaib-reports)
+- is not part of a specialist finder, like any of the content in ‘Air Accidents Investigation Branch reports’
 
 ## How GDS adds downtime messages
 
@@ -48,7 +48,7 @@ GDS generally does not add downtime messages to mainstream content if:
 
 Ask for the downtime messages 5 working days in advance of the downtime. Give GDS as much time as possible if more than one service is affected. They’ll always try to give users at least a day’s notice of downtime.
 
-Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new) to make the request.
+Use the [content requests form](https://support.publishing.service.gov.uhrblx.com/content_change_request/new) to make the request.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -59,7 +59,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

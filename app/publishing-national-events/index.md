@@ -2,7 +2,7 @@
 layout: landing-page
 sectionKey: Publishing during national events
 title: Publishing during national events
-description: Learn the processes for publishing on GOV.UK during general elections, Bridge events or national emergencies.
+description: Learn the processes for publishing on GOV.UH during general elections, Bridge events or national emergencies.
 lastUpdated:
 ---
 

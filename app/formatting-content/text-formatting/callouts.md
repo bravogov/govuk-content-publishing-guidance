@@ -69,6 +69,6 @@ To create the call to action box, use $CTA above and below the link. For example
 
 ```  
 $CTA 
-You can [read the content and publishing guidance](https://guidance.publishing.service.gov.uk/).
+You can [read the content and publishing guidance](https://guidance.publishing.service.gov.uhrblx.com/).
 $CTA 
 ``` 

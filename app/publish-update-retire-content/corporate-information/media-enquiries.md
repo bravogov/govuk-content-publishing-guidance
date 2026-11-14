@@ -57,5 +57,5 @@ For example, if the Ministry of Justice (MOJ) had 4 press officers working acros
 > 
 > Contact the duty officer on [phone number].  
 
-View [a good example of a 'Media enquiries' page](https://www.gov.uk/government/organisations/ofsted/about/media-enquiries). 
+View a good example of a 'Media enquiries' page. 
 

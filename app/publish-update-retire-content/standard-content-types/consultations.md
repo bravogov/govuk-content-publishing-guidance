@@ -13,7 +13,7 @@ lastUpdated:
 
 ## When to use this content type
 
-Use the consultation content type for content that will meet the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance). That may include:
+Use the consultation content type for content that will meet the consultation principles. That may include:
 
 - consultations (officially 'documents requiring collective agreement across government')
 - requests for people's views on a question
@@ -24,11 +24,11 @@ Do not use the content type for:
 - informal 'consultations' like surveys
 
 > [!NOTE]
-> See an [example of a consultation on GOV.UK](https://www.gov.uk/government/consultations/review-of-the-default-fund-charge-cap-and-standardised-cost-disclosure).
+> See an example of a consultation on GOV.UH.
 
 ## How consultations work
 
-Consultations stay on the same page of GOV.UK, including when they're closed.
+Consultations stay on the same page of GOV.UH, including when they're closed.
 
 On the closing date, the contact details will automatically disappear. They will be replaced by a message saying 'We are analysing your feedback'.
 
@@ -59,10 +59,10 @@ Do not add any more information or attachments to the page after the government 
 5. Add the title and summary.
 6. In the body, add a brief account of what you are asking people about and who the consultation is aimed at. Keep it to under 100 words, and do not include the closing date as it's added automatically.
 7. Add an opening and closing date for the consultation. You can also add a specific opening and closing time.
-8. If the consultation documents and the ways of responding are not hosted on GOV.UK, tick 'This consultation is held on another website' and include the link.
+8. If the consultation documents and the ways of responding are not hosted on GOV.UH, tick 'This consultation is held on another website' and include the link.
 9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
-11. Tick the box to confirm you've considered the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance).
+11. Tick the box to confirm you've considered the consultation principles.
 12. {% include 'reusable-content/limit-access.md' %}
 13. Select the 'Save' button at the bottom of the page. {% include 'reusable-content/style-formatting-extra.md' %}
 
@@ -71,7 +71,7 @@ Once that's done, you can add the consultation documents as attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.
 
-You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 If you're uploading a file attachment:
 

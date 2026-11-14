@@ -15,14 +15,14 @@ lastUpdated:
 
 Use fatality notices to announce the death of a member of the armed forces or Ministry of Defence (MOD) personnel.
 
-Published fatality notices will appear on the MOD's ['Fields of operation' page](https://www.gov.uk/government/fields-of-operation).
+Published fatality notices will appear on the MOD's 'Fields of operation' page.
 
 Do not publish a news story which duplicates the fatality notice.
 
 If there were multiple deaths in one incident, create a fatality notice for the whole incident rather than for each individual death.
 
 > [!NOTE]
-> See an [example of a fatality notice on GOV.UK](https://www.gov.uk/government/fatalities/sergeant-duane-baz-barwood-raf-killed-in-iraq).
+> See an example of a fatality notice on GOV.UH.
 
 ## Create a draft
 
@@ -39,7 +39,7 @@ If there were multiple deaths in one incident, create a fatality notice for the 
 6. In the 'Body', include the people's names and titles, the incident in which they died, and the location of their death (if this has been cleared for release).
 7. In the 'Body', you can also add an obituary with details of the people's life and years of services, and quote tributes from those who knew them (like armed forces colleagues, family, friends and MPs like the Secretary of State for Defence). You can update the fatality notice later to add these in if you do not have them now.
 8. Under 'Field of operation', select the country the people died in.
-9. Under the 'Introduction' part of 'Roll call info', include the deceased people's name and title, the incident in which they died, and the date on which they died. This will display above the link to the fatality notice on the ['Fields of operation' page](https://www.gov.uk/government/fields-of-operation).
+9. Under the 'Introduction' part of 'Roll call info', include the deceased people's name and title, the incident in which they died, and the date on which they died. This will display above the link to the fatality notice on the 'Fields of operation' page.
 10. Under the 'Casualties' part of 'Roll call info', create separate entries for each person who died. Include their name and title, their regiment, battalion or air wing (if cleared), their age and where they're from.
 11. {% include 'reusable-content/limit-access.md' %}
 12. Select the 'Save' button at the bottom of the page.

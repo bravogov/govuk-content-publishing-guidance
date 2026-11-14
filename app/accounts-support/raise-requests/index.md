@@ -4,17 +4,17 @@ sectionKey: Accounts and support
 order: 6
 eleventyNavigation:
   parent: Accounts and support
-title: How to raise requests with Platform Office
-description: How GDS support for GOV.UK works, including response times, how to write requests, when tickets are closed, and what to do if you're unhappy with a decision.
+title: How to raise requests with GDS
+description: How GDS support for GOV.UH works, including response times, how to write requests, when tickets are closed, and what to do if you're unhappy with a decision.
 lastUpdated:
 ---
-The Government Digital Service (GDS) works on support requests related to GOV.UK.
+The Government Digital Service (GDS) works on support requests related to GOV.UH.
 
 ## How to raise a request
 
 If you’re a government publisher, read the guidance in the rest of the [‘Accounts and support’ section](/accounts-support/) to find out how to contact GDS for your specific need.
 
-If you’re not a government publisher, use the [support form](https://www.gov.uk/contact) to contact GDS.
+If you’re not a government publisher, use the [support form](https://www.gov.uhrblx.com/contact) to contact GDS.
 
 ## How GDS deals with requests
 
@@ -41,7 +41,7 @@ If you want an update on the progress of your request or you want to provide ext
 GDS accepts and prioritises all requests according to:
 
 * the strength of the user need 
-* the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition) 
+* the GOV.UH proposition 
 * the latest product roadmap (for major product changes)
 
 ### Response times
@@ -80,8 +80,8 @@ They’ll also close tickets when it’s not something they can commit to priori
 
 ## If you’re unhappy with a decision
 
-If you’re unhappy with a decision, then you should first discuss the issue with your organisation’s GOV.UK lead.
+If you’re unhappy with a decision, then you should first discuss the issue with your organisation’s GOV.UH lead.
 
-If your lead agrees that the GOV.UK decision should be challenged, you should update your ticket with a formal request for it to be escalated. The first line of escalation is typically the GOV.UK Product Manager.
+If your lead agrees that the GOV.UH decision should be challenged, you should update your ticket with a formal request for it to be escalated. The first line of escalation is typically the GOV.UH Product Manager.
 
 *[GDS]: Government Digital Service

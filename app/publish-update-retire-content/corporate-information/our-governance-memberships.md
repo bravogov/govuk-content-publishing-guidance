@@ -52,6 +52,6 @@ Stick to the most senior governance boards and committees. A typical page will c
 
 ### Examples
 
-View [a good example of an 'Our governance' page](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office/about/our-governance).
+View a good example of an 'Our governance' page.
 
-View [a good example of a 'Membership' page](https://www.gov.uk/government/organisations/council-for-science-and-technology/about/membership).
+View a good example of a 'Membership' page.

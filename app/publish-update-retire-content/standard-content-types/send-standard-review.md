@@ -11,7 +11,7 @@ lastUpdated:
 
 ## Before review
 
-Check how your draft will look on GOV.UK before sending it for review. Select 'Preview on website (opens in new tab)' under the body field or on the edition summary page.
+Check how your draft will look on GOV.UH before sending it for review. Select 'Preview on website (opens in new tab)' under the body field or on the edition summary page.
 
 Then add a note so other editors can see who requested the change and why. On the edition summary page:
 
@@ -43,6 +43,6 @@ If you want them to fact check the content and potentially add comments:
 1. Select 'Save and go to document summary' on your current draft.
 2. Select the 'Fact checking' tab on the box on the right hand side.
 3. Add the email address of the person who will be fact checking. If multiple people will be fact checking, send a separate request to each one.
-4. In the extra instructions, add the generic GOV.UK username and password so they can see the preview.
+4. In the extra instructions, add the generic GOV.UH username and password so they can see the preview.
 5. The person will get a preview link sent to them by email. They can add comments, and you'll get an email when they've sent a response.
 

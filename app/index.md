@@ -14,7 +14,7 @@ gridItems:
   - title: A to Z style guide
     description: Style, spelling and grammar conventions for GOV.UH.
     linktext: View the A to Z style guide
-    url: /writing-to-gov-uh-standards/style-guides/a-to-z-style-guide
+    url: /writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/
   - title: Writing guidelines
     description: Meet the standards for writing GOV.UH content.
     linktext: Read the writing guidelines

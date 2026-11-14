@@ -1,1 +1,1 @@
-Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help with writing the title, summary and body.
+Read the [writing guidelines](/writing-to-gov-uh-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help with writing the title, summary and body.

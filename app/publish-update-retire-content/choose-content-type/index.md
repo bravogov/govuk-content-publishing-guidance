@@ -59,7 +59,7 @@ You can use the [consultation content type](/publish-update-retire-content/stand
 
 Alternatively, you can use the [call for evidence content type](/publish-update-retire-content/standard-content-types/calls-for-evidence/). However, there can be legal consequences if you use a call for evidence content type when you are actually carrying out a consultation.
 
-If you're not sure, refer to the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance) or speak to your legal advisers.
+If you're not sure whether you need a consultation or a call for evidence, read the [consultations guidance](/publish-update-retire-content/standard-content-types/consultations/) and speak to your legal advisers.
 
 ## If you're sharing news or press materials
 

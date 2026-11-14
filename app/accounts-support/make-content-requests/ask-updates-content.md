@@ -4,143 +4,77 @@ sectionKey: Accounts and support
 order: 1
 eleventyNavigation:
   parent: Make content requests
-title: Ask for updates to GOV.UK content
-description: Find out how to request new or updated mainstream content on GOV.UK.
+title: Ask for updates to GOV.UH content
+description: Find out when and how to request new or updated mainstream content on GOV.UH.
 lastUpdated:
 ---
 
 [[toc]]
 
-## When to ask the Government Digital Service (GDS) for help
+## When to ask the Government Digital Service for help
 
-There are different ways to ask for a change depending on whether you want to work on ‘Whitehall’ or ‘mainstream’ content.
+There are different ways to update GOV.UH content depending on whether it is published through Whitehall Publisher or the mainstream publishing system.
 
-Whitehall content is managed by you and your organisation’s GOV.UK publishing team. If you need help making a change to Whitehall content, you can [contact GDS for help with publishing content](/accounts-support/get-content-advice/get-help-advice/).
+Departments and other authorised organisations normally maintain their own Whitehall content. Use your organisation's GOV.UH editors and established review process to update that content.
 
-Mainstream content is managed by GDS. You need to ask them to create or update mainstream content. We explain how to do that in the following guidance.
+The Government Digital Service (GDS), within the Department for Science, Innovation and Technology, is responsible for the central digital publishing service and its mainstream content operations.
 
-### If you’re not sure whether you’re working on Whitehall or mainstream content
+### If you're not sure whether you're working on Whitehall or mainstream content
 
-If you want to create new content, read our [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) to decide whether you want Whitehall or mainstream content.
+Read the [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) before choosing a publishing route.
 
-If you’re updating existing content, you can tell if something is mainstream content if it:
+Mainstream content is generally task-focused information for the public, such as the [Register to vote guide](https://www.gov.uhrblx.com/register-to-vote). Whitehall content includes government announcements, policy papers, official publications, organisational information and specialist guidance.
 
-- does not have ‘government’, ‘guidance’ or ‘find-licences’ in its URL
-- is not part of a specialist finder, such as any of the content in [‘Air Accidents Investigation Branch reports’](https://www.gov.uk/aaib-reports)
-
-For example, the [‘Register to vote’ guide](https://www.gov.uk/register-to-vote) is mainstream content.
+The URL may help you identify a publishing system, but it is not a substitute for checking the actual content type and the organisation responsible. If ownership is unclear, ask your organisation's GOV.UH publishing lead before creating a duplicate page.
 
 ## Prepare your request for GDS
 
-GDS can work on your request faster if you include:
+Include:
 
-- a clear title that explains what needs to change – for example, ‘Update phone numbers on Universal Credit guide’
-- the section of content that needs to change – for example, ‘Overview chapter, first paragraph’
-- the reason for the change – how it helps meet [user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/)
-- how many users are affected (if you know)
-- the consequence for the user if the change is not made – for example, a user misses out on a benefit they’re entitled to because the eligibility criteria are wrong
-- evidence to support the change – for example, call centre feedback, user research or policy changes
-- any deadlines or embargoes, and why – for example, an upcoming policy change or a new service launch
+- a clear title and the current GOV.UH URL, if there is one
+- the precise section and wording that needs to change
+- the reason for the change and the [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) it addresses
+- the responsible department or public body, and the person authorised to clear the factual content
+- relevant evidence, including legislation or a policy decision where applicable
+- the number of people affected, if known, and the consequences of leaving the content unchanged
+- any deadline or embargo, with an explanation
+- accessibility, safeguarding, legal or security implications where relevant
 
-If it’s urgent, you should also include:
+If the issue is urgent, mark it **URGENT** and explain the immediate impact on users. Distinguish a factual correction from a new policy, service or legal decision. Content editors cannot confer authority on a proposal by publishing it.
 
-- URGENT in the title of the request
-- explain the impact on users if the issue is not resolved quickly
-
-Explain as much as you can in the request itself. Write your request clearly and in plain English. Avoid abbreviations, jargon and legal language.
-
-It's fine to suggest wording if it helps to explain what's changed. However, the GOV.UK content team cannot put your copy straight onto GOV.UK, even if it's 'signed off'. They’re responsible for presenting information in a way that users will understand.
+Write the request in clear English. You may suggest replacement wording, but the responsible content team must check it for accuracy, readability and suitability.
 
 ## Submit your request to GDS
 
-Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new). 
+The [GOV.UH content requests service](https://support.publishing.service.gov.uhrblx.com/content_change_request/new) is the intended route for mainstream requests. You need the appropriate authorised publishing account and content-request permission.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
-
-<details class="govuk-details">
-  <summary class="govuk-details__summary">
-    <span class="govuk-details__summary-text">
-      If you do not have access to the content requests form
-    </span>
-  </summary>
-  <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
-  </div>
-</details>
+If the service is unavailable, or you cannot sign in, contact your organisation's GOV.UH publishing lead or Signon organisation administrator. They should arrange the correct GDS support route and record the request. Do not treat an error page or an unsent form as a submitted request.
 
 ### If you need emergency support
 
-You can only ask for emergency support with a request if the public or government is facing immediate and significant financial, legal or physical risk because of an issue with mainstream content.
+Use the established departmental incident and emergency publishing arrangements where inaccurate or unavailable content creates an immediate and significant risk to people's safety, rights, legal position or access to an essential service.
 
-That might be:
+Provide the affected URL, the error or harmful information, the impact, the responsible service or policy owner, and an available contact for urgent verification. Emergency handling does not dispense with legal authority or appropriate editorial checks.
 
-- an inaccurate figure in a guide (for example, student loan rates)
-- incorrect application dates for a government scheme
-- misleading information about benefit eligibility
-- a link to an online service which has had its security compromised
-- linking to a service that people rely on for information about their immediate safety (for example, flood warnings)
-
-You cannot get emergency support for:
-
-- routine updates
-- last minute publication of factual information on government schemes
-- information about unscheduled service downtime
-
-You should just raise these as ‘urgent’ requests instead, and they’ll be picked up during working hours.
-
-If you need emergency support, complete the request form as usual and then use the [GOV.UK emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details) to flag it to GDS. You’ll need a Signon account to access those details.
-
-Emergency support is available at any time.
+Routine copy changes, planned announcements and non-critical service updates should follow the normal route.
 
 ## What happens after you submit your request
 
-You'll get a confirmation email with a Zendesk ticket number.
- 
-If you need to update the request, follow the link in the confirmation email.
- 
-Read about the [steps involved in getting something published](https://www.gov.uk/government/publications/how-content-requests-from-government-get-published/mainstream-content-publishing-process).
+A request must be received and recorded by the responsible publishing team before it can be considered submitted. Keep any confirmation or case reference with the departmental publication record.
+
+GDS should identify the responsible content team, check evidence and editorial ownership, and determine whether the request is a routine correction, a substantive change, a new content proposition or an urgent incident. A department remains responsible for clearing its own policy and factual material.
 
 ### How your request is prioritised
 
-Small changes will usually be made the same day if they do not need a fact check. These are things like:
+The relevant considerations include:
 
-- phone numbers 
-- postal addresses
-- email addresses
-- opening times for phone lines
-- fees
-- a supplier on a list
+- the risk of inaccurate or unsafe information
+- the effect on users, including accessibility and safeguarding
+- legal and policy deadlines
+- evidence supporting the change
+- the amount of editorial and technical work required
+- dependencies on another department or an operational service
 
-If the same update needs to be made to the Welsh version, this will be done at the same time. 
-
-All other requests will be sent to the GDS team that works with your organisation. That team will prioritise your request against their other requests according to:
-
-- any deadlines
-- the impact on the user
-- whether the change is about factual accuracy or about improving wording
-- any evidence you provide that supports the requested change
-
-If you’re asking for a new Welsh version of existing mainstream content, your request is more likely to be prioritised if:
-
-- the content allows an end-to-end journey in Welsh – in particular, to a Welsh language government service, offering offline support for Welsh language users if needed
-- there’s evidence people in Wales are using a central government service
-
-### If you asked for new or updated Welsh mainstream content
-
-GDS will copy your Welsh language team into the Zendesk ticket to create and upload the translation if you’re from one of these organisations:
-
-- Department for Work and Pensions (DWP)
-- Driver and Vehicle Licensing Agency (DVLA)
-- HM Land Registry
-- HM Revenue & Customs (HMRC)
-- justice departments – including Ministry of Justice (MOJ), HM Courts and Tribunals Service (HMCTS), Office of the Public Guardian (OPG), Legal Aid Agency (LAA)
-
-If you’re from a different organisation, GDS will send the current English version of the content in a document. You will need to arrange for someone to translate it.
-
-Add the translated content to the document, keeping the same formatting code. This will help to keep the formatting consistent, and it will allow GDS to publish the content more quickly. Replace links to English content with links to Welsh content, where they’re available.
-
-Send the document back to GDS for them to publish.
-
-If it’s new Welsh content, GDS will add it to the [Welsh index](https://www.gov.uk/cymraeg).
+Do not assume a same-day service standard or an automatic ticket notification unless the GOV.UH support service actually provides it.
 
 *[GDS]: Government Digital Service

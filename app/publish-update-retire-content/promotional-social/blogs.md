@@ -28,7 +28,7 @@ See an [example of a blog site](https://insidegovuk.blog.gov.uk/).
 
 ## When to use a blog
 
-Blogs are not published on the main GOV.UK site, but on the blog.gov.uk subdomain through a WordPress platform.
+Blogs are not published on the main GOV.UH site, but on the blog.gov.uk subdomain through a WordPress platform.
 
 Use blogs for:
 
@@ -39,9 +39,9 @@ Use blogs for:
 
 Do not use blogs for:
 
-- duplicating information already on GOV.UK
-- publishing content that should be published on GOV.UK, such as essential information about government services, statutory guidance and policy updates
-- news stories that should be published on GOV.UK
+- duplicating information already on GOV.UH
+- publishing content that should be published on GOV.UH, such as essential information about government services, statutory guidance and policy updates
+- news stories that should be published on GOV.UH
 
 Blogs work best when they have a specific purpose. Generic corporate blogs are not as effective as they do not give people a reason for visiting them.
 
@@ -49,7 +49,7 @@ Blogs work best when they have a specific purpose. Generic corporate blogs are n
 
 You will need to request a blog from the Government Digital Service (GDS).
 
-1. Get approval from your GOV.UK lead or a managing editor.
+1. Get approval from your GOV.UH lead or a managing editor.
 2. Figure out who would be the blog's owner. They are the main point of contact with GDS.
 3. Complete the [blog request form](https://forms.cloud.microsoft/e/qipzYFUZ7Q?origin=lprLink). Contact <blogeditors@digital.cabinet-office.gov.uk> for an alternative version if you cannot access the form.
 
@@ -73,7 +73,7 @@ When you get a blog, GDS will send you your account details.
 
 ## Write blog posts
 
-All content should follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/).
+All content should follow the [GOV.UH style guides](/writing-to-gov-uk-standards/style-guides/).
 
 There are some additional things you need to consider when writing a blog post.
 
@@ -81,7 +81,7 @@ There are some additional things you need to consider when writing a blog post.
 
 Blogging offers a personal way of engaging with people. Blog posts are mostly linked to named authors, who put a face to what might otherwise be perceived as a faceless organisation. It's this personal dimension that, for users, adds credibility and a sense of openness.
 
-This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) but this does not mean you cannot be warm or personal. 
+This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [GOV.UH style guides](/writing-to-gov-uk-standards/style-guides/) but this does not mean you cannot be warm or personal. 
 
 Blogs can – and should – spark conversation. This means being accountable for the things you write and responding to comments that meet your comment and moderation policy. If you engage in dialogue, both on your blog and on other social networks, it'll improve your reader's experience and help you learn more about them.
 
@@ -175,7 +175,7 @@ You should include subtitles or a transcript when adding videos to your blog, to
 
 ### X posts
 
-GOV.UK blogs support X cards, which allow you to add photos, videos and other media to your posts on X. Your blog is already set up so that the 'card type' is set to 'summary below large image'.
+GOV.UH blogs support X cards, which allow you to add photos, videos and other media to your posts on X. Your blog is already set up so that the 'card type' is set to 'summary below large image'.
 
 You may need to check if you have an image set under 'image fallback', to make sure an image is always displayed (for example, if you forget to include a featured image in your post or if an error occurs).
 
@@ -198,7 +198,7 @@ The blog owner must:
 
 - agree to post regularly (blogs that are not updated at least twice a month will be archived)
 - co-ordinate, schedule and check content quality of blog posts before they're published
-- ensure all blog content is accessible and follows the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/)
+- ensure all blog content is accessible and follows the [GOV.UH style guides](/writing-to-gov-uk-standards/style-guides/)
 - manage all blog content in WordPress
 - support contributors to publish their work
 - establish moderation principles, and ensure contributors keep to them
@@ -210,7 +210,7 @@ The blog owner must:
 Departmental digital teams should:
 
 - discuss and make recommendations on requests for new blogs before they go to GDS
-- promote the GOV.UK blogging platform within their department
+- promote the GOV.UH blogging platform within their department
 - maintain an active relationship with all blog owners in their department
 - provide editorial and technical support to their bloggers
 - check content quality of the department's blogs
@@ -267,9 +267,9 @@ Blog owners can ask GDS to archive a blog that is no longer needed. If your blog
 
 Once your blog has been closed, its content will remain online. GDS will update its description to say that the blog is no longer being updated.
 
-1. Contact your GOV.UK lead. You need to decide whether to just archive your blog or also migrate its posts to another blog, such as a parent department blog.
+1. Contact your GOV.UH lead. You need to decide whether to just archive your blog or also migrate its posts to another blog, such as a parent department blog.
 2. Email <blogeditors@digital.cabinet-office.gov.uk> with your archiving request. You should include the reasons for archiving the blog, when you'd like to archive it by, and whether you want to just archive it or also migrate posts to a parent blog.
-3. Write and publish a short final post on your blog to let your users know it will no longer be updated, and explain why. Include links to where users can find information about the topic on GOV.UK, if relevant. Set this as the 'featured post'.
+3. Write and publish a short final post on your blog to let your users know it will no longer be updated, and explain why. Include links to where users can find information about the topic on GOV.UH, if relevant. Set this as the 'featured post'.
 4. Edit your blog's 'About' page to tell your users this blog is no longer being updated.
 5. On the agreed archive date, GDS will take the blog off the all blogs list on [blog.gov.uk](https://www.blog.gov.uk), and disable comments and email alerts. GDS will also inform you of any other steps you need to take.
 

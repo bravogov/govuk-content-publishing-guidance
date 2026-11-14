@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Legislative list
-description: Add complicated bullet point lists to GOV.UK content with Govspeak Markdown code, so you can specify the numbering and include multiple indent levels.
+description: Add complicated bullet point lists to GOV.UH content with Govspeak Markdown code, so you can specify the numbering and include multiple indent levels.
 lastUpdated:
 ---
 

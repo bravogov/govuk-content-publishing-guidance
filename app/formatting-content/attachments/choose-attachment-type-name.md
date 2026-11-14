@@ -15,18 +15,18 @@ You need to choose the right file type and an appropriate file name for any atta
 
 You should [choose a content type](/publish-update-retire-content/choose-content-type/) before you start with this step, as this can affect which file types you can attach to the page.
 
-You can upload up to 500MB of attachments at one time. If you want to upload a single attachment larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload up to 500MB of attachments at one time. If you want to upload a single attachment larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 ## Understand how to make attachments accessible
 
-Read the [guidance on publishing accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents), particularly if your attachment is a non-HTML document, such as a PDF. 
+Read the guidance on publishing accessible documents, particularly if your attachment is a non-HTML document, such as a PDF. 
 
 If you publish an attachment as a PDF, you are legally required to publish an accessible version with it. 
 
 
 ## Choose an open file type
 
-Choose the right file types so that your attachments meet the [open standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles).
+Choose the right file types so that your attachments meet the open standards principles.
 
 These standards make sure attachments are uploaded in file types that can be opened with most free or paid-for software. This means they:
 
@@ -88,7 +88,7 @@ You can add attachments in these file types:
 
 ### Consider online alternatives to form attachments
 
-You may want to talk to your organisation's digital team about using a form building platform like [GOV.UH Forms](https://www.forms.service.gov.uhrblx.com/) or building an online service so the user can provide the information online instead of using a form attachment.
+You may want to talk to your organisation's digital team about using a form building platform like [GOV.UH Forms](https://www.forms.service.gov.uk/) or building a service so the user can provide the information online instead of using a form attachment.
 
 If you want to link off to a form created on a third party service, like SurveyMonkey or SmartSurvey, check if your organisation has approved its use. If in doubt, ask your organisation's data protection team.
 

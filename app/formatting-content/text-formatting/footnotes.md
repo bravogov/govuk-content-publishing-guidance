@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Footnotes
-description: Add footnotes to GOV.UK content with Govspeak Markdown code.
+description: Add footnotes to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 

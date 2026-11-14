@@ -1,1 +1,1 @@
-If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', you cannot update it without [asking the Government Digital Service (GDS) to remove history mode](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', you cannot update it without [asking the Government Digital Service (GDS) to remove history mode](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new).

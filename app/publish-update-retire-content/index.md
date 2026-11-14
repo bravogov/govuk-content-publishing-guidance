@@ -35,7 +35,7 @@ This guidance does not cover mainstream content. Mainstream content is:
 - for the general public or small businesses
 - managed through the GOV.UH mainstream publishing service, with substantive changes approved by the responsible content owner
 
-You can [read more about which content is considered mainstream](/writing-to-gov-uh-standards/plan-manage-content/plan-new-govuk-content/).
+You can [read more about which content is considered mainstream](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/).
 
 Published mainstream content will:
 

@@ -15,4 +15,4 @@ If you create a terms of reference page, a link to it will appear automatically 
 {% include 'reusable-content/corporate-info-style-tone.md' %}
 
 
-View [a good example of a 'Terms of reference' page](https://www.gov.uk/government/organisations/advisory-committee-on-releases-to-the-environment/about/terms-of-reference). 
+View a good example of a 'Terms of reference' page. 

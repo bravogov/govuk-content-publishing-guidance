@@ -21,7 +21,7 @@ Use statistical data sets for data that you both:
 For data sets you publish less frequently or with analysis, use [statistics content](/publish-update-retire-content/standard-content-types/statistics/) instead.
 
 > [!NOTE]
-> See an [example of a statistical data set on GOV.UK](https://www.gov.uk/government/statistical-data-sets/companies-house-management-information-identity-verification-january-to-march-2026).
+> See an example of a statistical data set on GOV.UH.
 
 
 ## Create a draft

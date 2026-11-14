@@ -5,7 +5,7 @@ order: 2
 eleventyNavigation:
   parent: Make content requests
 title: Ask for changes to topics
-description: Suggest changes to GOV.UK topics for Whitehall content or request new ones.
+description: Suggest changes to GOV.UH topics for Whitehall content or request new ones.
 lastUpdated:
 ---
 Most Whitehall content needs to be tagged to a topic before it can be published.
@@ -14,14 +14,14 @@ If there’s no topic that describes what your content is about, you can ask the
 
 You can also suggest changes to an existing topic.
 
-You need a Signon account to make these requests. Speak to your GOV.UK lead or one of your organisation admins if you want an account. 
+You need a Signon account to make these requests. Speak to your GOV.UH lead or one of your organisation admins if you want an account. 
 
-Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
 
 
 ## Add a new topic
 
-Use the [new topic request form](https://support.publishing.service.gov.uk/taxonomy_new_topic_request/new) to make your request.
+Use the [new topic request form](https://support.publishing.service.gov.uhrblx.com/taxonomy_new_topic_request/new) to make your request.
 
 You need to include:
 
@@ -31,7 +31,7 @@ You need to include:
 
 ## Suggest changes to an existing topic
 
-Use the [suggest topic changes request form](https://support.publishing.service.gov.uk/taxonomy_change_topic_request/new) if you want to:
+Use the [suggest topic changes request form](https://support.publishing.service.gov.uhrblx.com/taxonomy_change_topic_request/new) if you want to:
 
 * rename a topic
 * remove a topic

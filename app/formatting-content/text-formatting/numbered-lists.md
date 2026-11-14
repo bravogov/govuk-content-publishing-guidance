@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Numbered lists
-description: Add numbered lists to GOV.UK content with Govspeak Markdown code.
+description: Add numbered lists to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 

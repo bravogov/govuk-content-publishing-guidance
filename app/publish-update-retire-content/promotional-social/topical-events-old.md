@@ -39,7 +39,7 @@ Each topical page has a number of fields to fill in.
 
 ### Name
 
-Use the name of the event and the year (for example 'D5 London 2014') and state if it's a government response to a crisis or event (for example 'Ebola virus: UK government response').
+Use the name of the event and the year (for example 'D5 London 2014') and state if it's a government response to a crisis or event (for example 'public health emergency: government response').
 
 Names must be unique and cannot be changed once published. They do not need a full stop. When you save your page this will become its 'slug', which users will see as the last section of the page URL.
 
@@ -128,7 +128,7 @@ You need to tag the content to the topical event before it can be featured. Do t
 Once the content has been tagged to the topical event and published: 
 
 1. Select the 'Featured' tab. 
-2. Select the 'GOV.UK content' tab. 
+2. Select the 'GOV.UH content' tab. 
 3. Search for the content you want to feature using the filters.  
 4. Select the 'Feature' link next to the content you would like to feature. 
 5. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text. 

@@ -22,14 +22,14 @@ Do not use this content type for:
 
 There could be legal consequences if you use a call for evidence content type when you are actually carrying out a consultation.
 
-Check the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance) or speak to your legal advisors if you're not sure whether you're doing a consultation or a call for evidence.
+Check the consultation principles or speak to your legal advisors if you're not sure whether you're doing a consultation or a call for evidence.
 
 > [!NOTE]
-> See an [example of a call for evidence on GOV.UK](https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging).
+> See an example of a call for evidence on GOV.UH.
 
 ## How calls for evidence work
 
-Calls for evidence stay on the same page of GOV.UK, including when they are closed.
+Calls for evidence stay on the same page of GOV.UH, including when they are closed.
 
 On the closing date, the contact details will automatically disappear and a message will appear saying the call for evidence is closed.
 
@@ -52,7 +52,7 @@ You can then add a final outcome to explain the government's response to the cal
 5. Add the title and summary.
 6. In the body, add a brief account of what you are asking people about and who the call for evidence is aimed at. Keep it to under 100 words, and do not include the closing date as it's added automatically.
 7. Add an opening and closing date for the call for evidence. You can also add a specific opening and closing time.
-8. If the documents and way of responding are not hosted on GOV.UK, tick 'This call for evidence is held on another website' and include the link.
+8. If the documents and way of responding are not hosted on GOV.UH, tick 'This call for evidence is held on another website' and include the link.
 9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. {% include 'reusable-content/limit-access.md' %}
@@ -65,7 +65,7 @@ Once that's done, you can add attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.
 
-You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 If you're uploading a file attachment:
 

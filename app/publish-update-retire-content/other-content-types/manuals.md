@@ -35,48 +35,48 @@ Use them for:
 
 Do not use them for:
 
-* PDFs or documents that are published elsewhere on GOV.UK
+* PDFs or documents that are published elsewhere on GOV.UH
 * internal guidance, unless there's a legal requirement to do so (for example HMRC manuals)
 
 > [!NOTE]
-> See an [example of a manual](https://www.gov.uk/guidance/convert-to-an-academy-information-for-schools).
+> See an example of a manual.
 
 ## Get approval to create a new manual
 
-Your GOV.UK lead or a managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
+Your GOV.UH lead or a managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
 
 Their request for a new manual must show:
 
 - the content has clear user needs
 - what the source content is
-- what else is covered on GOV.UK on the topic
+- what else is covered on GOV.UH on the topic
 
-[Contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
+[Contact GDS using the advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new).
 
-Your GOV.UK lead or managing editor will need a Signon account with ‘content requesters’ permissions to access the advice form.
+Your GOV.UH lead or managing editor will need a Signon account with ‘content requesters’ permissions to access the advice form.
 
 ## Get access to Manuals Publisher
 
-You'll need access to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uk/manuals) to create or update manuals. 
+You'll need access to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uhrblx.com/manuals) to create or update manuals. 
 
 GDS will usually give publishers in your organisation access when you get approval to create your first manual.
 
 If you do not have access, you need to either:
 
 - ask one of organisation admins to give you access to Manuals Publisher
-- if you're the only organisation admin, use the [accounts form](https://support.publishing.service.gov.uk/change_existing_user_request/new) to ask for access to Manuals Publisher
+- if you're the only organisation admin, use the [accounts form](https://support.publishing.service.gov.uhrblx.com/change_existing_user_request/new) to ask for access to Manuals Publisher
 
 You'll also need to ask for the 'editor' permission to publish your draft, or find someone in your organisation with that permission.
 
 ## Create a draft
 
-Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help with writing the content.
+Read the [writing guidelines](/writing-to-gov-uh-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help with writing the content.
 
 ### If you're creating a new manual
 
 If you have approval from GDS, you can get started:
 
-1. Go to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uk/manuals).
+1. Go to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uhrblx.com/manuals).
 2. Select 'Create new manual'. 
 3. Add a title for the manual and a summary of its contents. You can add more text in the 'Body' section if you want to add a more detailed description.
 4. You can select whether the manual has been published before on another website, and give the date that any previous version was published on.
@@ -87,7 +87,7 @@ If you have approval from GDS, you can get started:
 
 ### If you're updating an existing manual
 
-1. Go to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uk/manuals).
+1. Go to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uhrblx.com/manuals).
 2. Select 'View' next to the manual you want to update.
 3. If you want to update the title, summary or body of the main page of the manual, select 'Edit' next to the 'Front page' heading.
 4. If you want to update specific sections, go to the 'Sections' area, select 'View' next to the relevant section and then 'Edit section'.
@@ -117,7 +117,7 @@ When the attachment is ready:
 5. Select 'Save attachment'.
 6. Under the 'Attachments' heading, you should see the attachment's title and a code after 'Attachment:'. Copy and paste the code into the relevant part of the body.
 
-You can upload a file up to 500MB large. If you want to upload a larger file, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload a file up to 500MB large. If you want to upload a larger file, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 ## Images
 
@@ -135,7 +135,7 @@ Users will get email notifications about new manuals or major changes if they're
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
 
-If you want to change the organisation or tag more organisations, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to change the organisation or tag more organisations, [contact GDS using the content advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new).
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -146,7 +146,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -155,7 +155,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 You can only tag the manual to topic pages once the first draft is published.
 
-You'll need to [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+You'll need to [contact GDS using the content advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) and ask them to tag the manual for you.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -166,7 +166,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -175,7 +175,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 You cannot withdraw a manual like you can for content made in Whitehall Publisher. 
 
-Instead, you can unpublish either specific sections or the entire manual. This means they'll be completely removed from GOV.UK.
+Instead, you can unpublish either specific sections or the entire manual. This means they'll be completely removed from GOV.UH.
 
 To unpublish sections of a manual:
 
@@ -184,7 +184,7 @@ To unpublish sections of a manual:
 3. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select 'Major change' and add your change notes.
 4. When you've done this for every relevant section, publish the draft.
 
-To unpublish the manual as a whole, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+To unpublish the manual as a whole, [contact GDS using the content advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) and explain why the manual needs to be unpublished.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -195,7 +195,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

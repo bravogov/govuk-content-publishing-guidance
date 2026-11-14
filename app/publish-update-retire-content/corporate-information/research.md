@@ -27,7 +27,7 @@ Adapt this text for the summary:
 > [!NOTE]
 > Our research programme aims to help us develop policy that's informed by evidence, and to help us understand the needs of service users.
 
-In the body, link to where the organisation's research publications are published on GOV.UK. You can get this link from your organisation page - copy the 'See all research and statistics' link under the 'Documents' section. You can also add a link to the organisation's older research publications on the National Archives site.
+In the body, link to where the organisation's research publications are published on GOV.UH. You can get this link from your organisation page - copy the 'See all research and statistics' link under the 'Documents' section. You can also add a link to the organisation's older research publications on the National Archives site.
 
 You should also list the major items of research you're planning to publish for up to the next 12 months. Use a list format rather than a table. Order it so that the closest to publication is at the top. Once something has been published, remove it from the list.
 
@@ -42,6 +42,6 @@ Briefly explain what the organisation is trying to achieve through its research 
 
 If the organisation has a formal research commissioning policy or similar publication, you can attach it to the page.
 
-You can also let people know how to become a supplier of research services to your organisation. Do not list individual opportunities, just let people know where contracts are listed ([Contracts Finder](https://www.gov.uk/contracts-finder) for a lot of government organisations).
+You can also let people know how to become a supplier of research services to your organisation. Do not list individual opportunities, just let people know where contracts are listed (Contracts Finder for a lot of government organisations).
 
 Do not duplicate substantial amounts of content from your 'Procurement at [organisation name]' page.

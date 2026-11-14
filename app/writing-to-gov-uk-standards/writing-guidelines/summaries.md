@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 7
 eleventyNavigation:
   parent: Writing guidelines
 title: Write clear summaries
-description: Learn how to create a summary for your GOV.UK content, including what language to use and the recommended length.
+description: Learn how to create a summary for your GOV.UH content, including what language to use and the recommended length.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/summaries
 lastUpdated:
 ---
