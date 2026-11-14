@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 1
 eleventyNavigation:
   parent: Writing guidelines
 title: Write content to meet user needs
-description: Learn how to write GOV.UK content that helps users complete tasks.
+description: Learn how to write GOV.UH content that helps users complete tasks.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/meet-user-needs
 lastUpdated:
 ---

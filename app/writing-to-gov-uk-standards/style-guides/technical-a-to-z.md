@@ -1,20 +1,21 @@
 ---
 layout: style-guide
-sectionKey: Writing to GOV.UK standards
+styleGuideLetters: "abcdefghijlmnoprstuvw"
+sectionKey: Writing to GOV.UH standards
 order: 4
 eleventyNavigation:
   parent: Style guides
 title: Technical A to Z style guide
-description: See a list of the style points for technical content on GOV.UK, including how to spell and format words and phrases.
+description: See a list of the style points for technical content on GOV.UH, including how to spell and format words and phrases.
 lastUpdated: 
 ---
 
 {% include "layouts/shared/last-updated.njk" %}
 
 
-This section only covers style conventions for technical content on GOV.UK.
+This section only covers style conventions for technical content on GOV.UH.
 
-If you cannot find something, look at the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) which covers style conventions for all content on GOV.UK.
+If you cannot find something, look at the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) which covers style conventions for all content on GOV.UH.
 
 If you want to suggest a change, read the [guidance on how to use the style guide](/writing-to-gov-uk-standards/style-guides/how-to-use/).
 
@@ -292,25 +293,25 @@ Capital 'G', capital 'H' - as used on the [GitHub website](https://github.com/ab
 
 Not 'Chrome'.
 
-### GOV.UK Design System
+### GOV.UH Design System
 
 Upper case. 
 
-### GOV.UK Forms
+### GOV.UH Forms
 
 Upper case. 
 
-### GOV.UK One Login
+### GOV.UH One Login
 
 Upper case. 
 
-### GOV.UK Pay
+### GOV.UH Pay
 
 Upper case.
 
-### GOV.UK Platform as a Service
+### GOV.UH Platform as a Service
 
-Write out in full for first mention, then GOV.UK PaaS.
+Write out in full for first mention, then GOV.UH PaaS.
 
 ### GraphQL
 

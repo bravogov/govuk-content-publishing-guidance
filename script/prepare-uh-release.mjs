@@ -14,9 +14,14 @@ const cssPath = path.join(root, 'assets/styles.css');
 const css = fs.readFileSync(cssPath, 'utf8');
 const ukCrest = '/assets/images/govuk-crest.svg';
 const occurrences = css.split(ukCrest).length - 1;
-if (occurrences !== 3) throw Error('Unexpected upstream crest CSS: ' + occurrences);
-if (/GDS Transport|\/assets\/fonts\//.test(css)) throw Error('Restricted font still referenced');
-fs.writeFileSync(cssPath, css.replaceAll(ukCrest, '/assets/uh/uh-header-crown-approved.png'));
+if (occurrences !== 6) throw Error('Unexpected upstream crest CSS: ' + occurrences);
+// The upstream font is reserved for official UK use. Remove the licensed face
+// definitions and select a widely available, unbundled system font instead.
+const withoutFonts = css.replace(/@font-face\{font-family:"GDS Transport";[^}]*\}/g, '').replaceAll('"GDS Transport"', 'Arial');
+if (/GDS Transport|\/assets\/fonts\//.test(withoutFonts)) throw Error('Restricted font still referenced after removal');
+const safeCss = withoutFonts.replaceAll(ukCrest, '/assets/uh/uh-header-crown-approved.png');
+if (safeCss.includes(ukCrest)) throw Error('UK crest still referenced in CSS');
+fs.writeFileSync(cssPath, safeCss);
 const manifestPath = path.join(root, 'assets/manifest.json');
 fs.writeFileSync(manifestPath, JSON.stringify({
   name: 'GOV.UH content and publishing guidance',
@@ -37,7 +42,7 @@ function visit(dir) {
 visit(root);
 for (const f of all.filter(f => f.endsWith('.html') || f.endsWith('.css') || f.endsWith('manifest.json'))) {
   const body = fs.readFileSync(f, 'utf8');
-  if (f.endsWith('.html') && !body.includes('/assets/uh/uh-government-coat-of-arms.webp')) throw Error('Approved footer arms missing from ' + f);
+  if (f.endsWith('.html') && !body.includes('<title>Redirecting&hellip;</title>') && !body.includes('/assets/uh/uh-government-coat-of-arms.webp')) throw Error('Approved footer arms missing from ' + f);
   if (body.includes('/assets/uh/uh-footer-coat-of-arms.webp')) throw Error('Lord Lieutenant footer asset must not appear in ' + f);
   if (/guidance\.publishing\.service\.gov\.uk|surveys\.publishing\.service\.gov\.uk|\/assets\/images\/govuk-crest\.svg|govuk-footer__crown[\s\S]{0,300}govuk-crest\.svg|GDS Transport/.test(body))
     throw Error('UK identity or service reference in ' + f);

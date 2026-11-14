@@ -12,9 +12,9 @@ lastUpdated:
 
 Group pages are for policy advisory groups and other types of groups in your organisation.
 
-Policy advisory groups are panels of people who advise on policy development, typically made up of a mix of external experts and civil servants. For example, the [Advisory Group on Hepatitis](https://www.gov.uk/government/groups/advisory-group-on-hepatitis).
+Policy advisory groups are panels of people who advise on policy development, typically made up of a mix of external experts and civil servants. For example, the Advisory Group on Hepatitis.
 
-Other groups include units, teams and committees within, set up or sponsored by your organisation, and who carry out specific areas of work. For example, the [Farming Advice Service](https://www.gov.uk/government/groups/farming-advice-service). 
+Other groups include units, teams and committees within, set up or sponsored by your organisation, and who carry out specific areas of work. For example, the Farming Advice Service. 
 
 ## When you need a group page
 
@@ -30,7 +30,7 @@ Group pages should not be used as a way of setting out:
 * the internal structure of an organisation (such as by having a group page for every team)
 * activities performed by a group (for example, documents published) without a call to action
 
-Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UK will be enough, such as in a [document collection](/publish-update-retire-content/standard-content-types/document-collections/).
+Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UH will be enough, such as in a [document collection](/publish-update-retire-content/standard-content-types/document-collections/).
 
 ## What should go on group pages
 
@@ -51,7 +51,7 @@ Group pages should not be used to:
 
 ## Get permission before adding a new group page
 
-Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new) for permission to add a new group page.
+Your GOV.UH lead or a managing editor needs to [ask the Government Digital Service (GDS)](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) for permission to add a new group page.
 
 They need to include in their request:
 
@@ -118,7 +118,7 @@ Make sure you've correctly [formatted the attachments](/formatting-content/attac
 
 Select the 'Attachments' tab. You can upload a new file attachment and edit or delete any existing ones.
 
-You can upload up to 500MB of files at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload up to 500MB of files at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 You cannot add HTML attachments to this content type.
 
@@ -181,17 +181,17 @@ Keep the rest of the content as a record of what the group did.
 
 Good examples of closed groups include the:
 
-- [Customer Equality Reference Group](https://www.gov.uk/government/groups/dwp-customer-equality-reference-group)
-- [Prime Minister's Business Ambassadors](https://www.gov.uk/government/groups/business-ambassadors)
+- Customer Equality Reference Group
+- Prime Minister's Business Ambassadors
 
 ## Update the name of a group page
 
-[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want a new group page with the updated name.
+[Ask GDS for help](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) if you want a new group page with the updated name.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UH lead or managing editor if you want access to the form.
 
 When you have that approval, close the old group page and set up one with the new name.
 
-A good example of a group that has changed its name is the [Group Litigation Order (GLO) Compensation Scheme Advisory Board](https://www.gov.uk/government/groups/group-litigation-order-glo-compensation-scheme-advisory-board).
+A good example of a group that has changed its name is the Group Litigation Order (GLO) Compensation Scheme Advisory Board.
 
 *[GDS]: Government Digital Service

@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Charts
-description: Add bar charts to GOV.UK content with Govspeak Markdown code.
+description: Add bar charts to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 
@@ -15,7 +15,7 @@ All bar charts can display negative values.
 Users can switch between a bar chart and a table view on the webpage.
 
 > [!NOTE]
-> See [examples of different bar charts on GOV.UK](https://www.gov.uk/government/publications/examples-of-visual-content-to-use-on-govuk/examples-of-visual-content-to-use-on-govuk).
+> See examples of different bar charts on GOV.UH.
 
 To add a chart, make a numeric table using the [tables code](/formatting-content/text-formatting/tables/). You then need to add a line of code below the table, which is different depending on the type of bar chart you want.
 
@@ -94,7 +94,7 @@ Combine the different styles of bar charts by using more than one tag on separat
 
 ## Colours in bar charts
 
-You can use up to 6 colours to represent different categories when you add a bar chart on GOV.UK. The colours and the order they appear cannot be changed. 
+You can use up to 6 colours to represent different categories when you add a bar chart on GOV.UH. The colours and the order they appear cannot be changed. 
 
 This is so they're accessible for users who are colour blind or have low vision.
 

@@ -13,7 +13,7 @@ Add acronym code so that when a user hovers over an abbreviation they see the fu
 You should:
 
 - go to the end of the body copy to add the code, leaving one empty line space above it
-- type an asterisk, square brackets around the acronym, a colon and then the full name - for example: `*[DWP]: Department for Work and Pensions`
+- type an asterisk, square brackets around the acronym, a colon and then the full name - for example: `*[DWS]: Department for Work and Skills`
 - make sure there is no space between the asterisk and the square bracket
 
 When you have more than one acronym, list:

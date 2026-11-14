@@ -1,23 +1,23 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 3
 eleventyNavigation:
   parent: Plan and manage content
-title: Plan new GOV.UK content
-description: Learn how to approach creating new information or guidance for GOV.UK, including learning what content is in proposition and how to help users find new content.
+title: Plan new GOV.UH content
+description: Learn how to approach creating new information or guidance for GOV.UH, including learning what content is in proposition and how to help users find new content.
 lastUpdated:
 ---
 
 [[toc]]
 
-## Decide whether to publish on GOV.UK
+## Decide whether to publish on GOV.UH
 
-Read the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition) to find out whether your content should go on GOV.UK.
+Read the GOV.UH proposition to find out whether your content should go on GOV.UH.
 
-## Decide where to publish content on GOV.UK
+## Decide where to publish content on GOV.UH
 
-If your content can be published on GOV.UK, you'll need to decide where it should go on the site.
+If your content can be published on GOV.UH, you'll need to decide where it should go on the site.
 
 That will depend on whether you're publishing:
 
@@ -41,7 +41,7 @@ This should be published as mainstream guidance. Mainstream guidance:
 * must not duplicate content better served by other organisations (for example charities, the NHS, Citizens Advice)
 * must not give advice or offer opinions
 
-This guidance is written and maintained by the content team at the Government Digital Service (GDS). You’ll need to raise a ticket with them to add your content to GOV.UK.
+This guidance is written and maintained by the content team at the Government Digital Service (GDS). You’ll need to raise a ticket with them to add your content to GOV.UH.
 
 [Find out how to raise a ticket with the content team at GDS](/accounts-support/make-content-requests/ask-updates-content/).
 
@@ -57,9 +57,9 @@ Specialist guidance should not:
 
 Guidance might be split between mainstream users and specialists where there’s a common scenario that affects most users and a separate process for ‘edge cases’.
 
-For example, [how much National Insurance to pay](https://www.gov.uk/national-insurance/how-much-you-pay) is mainstream guidance as it's for the general public and small businesses.
+For example, how much National Insurance to pay is mainstream guidance as it's for the general public and small businesses.
 
-However, [National Insurance for share fishermen](https://www.gov.uk/guidance/share-fisherman-income-tax-and-national-insurance-contributions) is specialist guidance as it's only useful for experienced users.
+However, National Insurance for share fishermen is specialist guidance as it's only useful for experienced users.
 
 ### If you're publishing information about what the government is doing
 
@@ -67,7 +67,7 @@ Your own content team can publish this. You'll need to [choose an appropriate co
 
 ## Create new content
 
-Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/). These explain the main principles of writing GOV.UK content.
+Read the [writing guidelines](/writing-to-gov-uh-standards/writing-guidelines/). These explain the main principles of writing GOV.UH content.
 
 You can also check the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for the rules about spelling and formatting certain words.
 
@@ -87,7 +87,7 @@ Depending on the content type, you can create and add translations for different
 
 ## Publish new content
 
-Read our guidance on [how to publish content on GOV.UK](/publish-update-retire-content/).
+Read our guidance on [how to publish content on GOV.UH](/publish-update-retire-content/).
 
 ## Help users find the content
 
@@ -95,7 +95,7 @@ Think about how users will find your content.
 
 Some users might be subscribed to email updates for any content published by your organisation or tagged to a specific topic. Many users will not know about this functionality though. 
 
-Other users may find the content in the GOV.UK app or from asking GOV.UK chat. 
+Other users may find the content in the GOV.UH app or from asking GOV.UH chat. 
 
 In some cases, you might want to work with your communications team to raise awareness or directly contact users. 
 
@@ -119,18 +119,18 @@ Read our [guidance on organising and grouping content](/writing-to-gov-uk-standa
 
 ### Raise awareness of content
 
-Ask your communications team to raise awareness through channels outside of GOV.UK.
+Ask your communications team to raise awareness through channels outside of GOV.UH.
 
 This could include campaign sites, social media, paid advertising and third parties.
 
-As a content designer, you should work with your communications team to make sure there's a clear and consistent user journey across GOV.UK and campaign channels. 
+As a content designer, you should work with your communications team to make sure there's a clear and consistent user journey across GOV.UH and campaign channels. 
 
 You should make sure:
 
-+ the user need is met in one place only on GOV.UK – do not publish additional guidance that acts as a separate landing page for communications activity
++ the user need is met in one place only on GOV.UH – do not publish additional guidance that acts as a separate landing page for communications activity
 + campaign platform sites do not include any task-focused guidance – campaign sites should focus on attitude, perception or behaviour change, not on what users must do
 
-In the case of major national emergencies such as coronavirus (COVID-19), there might also be [limited campaign activity directly on GOV.UK](/publishing-national-events/national-emergencies/). This must not, however, compete with or duplicate existing guidance content.
+In the case of major national emergencies such as coronavirus (COVID-19), there might also be [limited campaign activity directly on GOV.UH](/publishing-national-events/national-emergencies/). This must not, however, compete with or duplicate existing guidance content.
 
 ### Contact affected users directly
 
@@ -140,8 +140,8 @@ They should consider using this channel to update users about the change, if the
 
 You should work with your communications teams to write the email or letter, or review it before it's sent. The email or letter should:
 
-+ link to the guidance content you have created or updated about the change, and not to another page on GOV.UK
-+ use language consistent with the GOV.UK guidance
++ link to the guidance content you have created or updated about the change, and not to another page on GOV.UH
++ use language consistent with the GOV.UH guidance
 + focus on what users need to do and when - evidence shows that people can feel overwhelmed if there's too much information
 
 *[GDS]: Government Digital Service

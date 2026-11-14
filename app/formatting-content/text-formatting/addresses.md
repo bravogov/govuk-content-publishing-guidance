@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Addresses
-description: Add addresses to GOV.UK content with Govspeak Markdown code.
+description: Add addresses to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 

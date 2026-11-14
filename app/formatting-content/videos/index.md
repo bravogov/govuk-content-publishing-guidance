@@ -5,16 +5,16 @@ order: 3
 eleventyNavigation:
     parent: Formatting content
 title: Videos
-description: Add videos to GOV.UK content with Govspeak Markdown code and make sure they're accessible, such as by adding captions, transcripts and audio description. 
+description: Add videos to GOV.UH content with Govspeak Markdown code and make sure they're accessible, such as by adding captions, transcripts and audio description. 
 lastUpdated:
 redirect_from: /formatting-content/images-videos/formatting-videos/
 ---
 
 [[toc]]
 
-The Government Digital Service (GDS) usually does not recommend using videos or animations on GOV.UK to explain concepts or processes.
+The Government Digital Service (GDS) usually does not recommend using videos or animations on GOV.UH to explain concepts or processes.
 
-On GOV.UK, you should be able to explain things clearly and concisely for the general public in words. If it's hard to explain clearly, it's a sign that the concept or process itself needs simplifying.
+On GOV.UH, you should be able to explain things clearly and concisely for the general public in words. If it's hard to explain clearly, it's a sign that the concept or process itself needs simplifying.
 
 Videos about concepts or processes often:
 
@@ -34,13 +34,13 @@ Videos also:
 
 If you're thinking about using video, check if you can address the problem or issue with words first. It's easier and quicker for users to find the information in text rather than in video. 
 
-If you've created a marketing or campaign video, it's best to publish it on social media channels, then link users to content on GOV.UK.
+If you've created a marketing or campaign video, it's best to publish it on social media channels, then link users to content on GOV.UH.
 
 ## Add a video
 
 You can either:
 
-- embed a video if it's hosted on YouTube – users will only see the embed if they've accepted the ['communications and marketing' GOV.UK cookie](https://www.gov.uk/help/cookies)
+- embed a video if it's hosted on YouTube – users will only see the embed if they've accepted the ['communications and marketing' GOV.UH cookie](https://www.gov.uhrblx.com/help/cookies)
 - add a link to a video
 
 ### Embed a YouTube video

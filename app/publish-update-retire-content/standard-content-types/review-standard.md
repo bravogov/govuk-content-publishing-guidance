@@ -11,8 +11,8 @@ lastUpdated:
 
 If you've been asked to review someone else's content, check that it:
 
-- [should be on GOV.UK](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/)
-- does not duplicate content already on GOV.UK
+- [should be on GOV.UH](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/)
+- does not duplicate content already on GOV.UH
 - has a clear [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/)
 - is the right [content type](/publish-update-retire-content/choose-content-type/)
 

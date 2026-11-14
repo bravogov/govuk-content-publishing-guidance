@@ -1,14 +1,14 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 4
 eleventyNavigation:
   parent: Help users prepare for change
 title: If a policy or scheme is being removed or phased out
-description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to end.
+description: Plan updates to GOV.UH guidance if an existing policy or scheme is about to end.
 lastUpdated:
 ---
-If a policy or scheme is being removed or phased out, users will no longer be able to do something on GOV.UK which they can do now.
+If a policy or scheme is being removed or phased out, users will no longer be able to do something on GOV.UH which they can do now.
 
 ### What to do in advance
 
@@ -34,12 +34,12 @@ When HM Revenue and Customs (HMRC) introduced the 'tax-free childcare' scheme th
 
 However, parents could still apply for childcare vouchers for a period while both schemes were running. In some cases they were even better off to do this.
 
-This meant GOV.UK needed to publish content in advance to announce the closure so that parents knew how much longer they had to apply for childcare vouchers.
+This meant GOV.UH needed to publish content in advance to announce the closure so that parents knew how much longer they had to apply for childcare vouchers.
 
 A callout was added to the content several months before the change came into effect:
 
 >[!NOTE]
->From 4 October 2018, childcare voucher schemes will close to new applicants. You may be able to get [Tax-Free Childcare](https://www.gov.uk/help-with-childcare-costs/tax-free-childcare) instead. You can keep getting vouchers if you've joined a scheme and you get your first voucher before the scheme closes.
+>From 4 October 2018, childcare voucher schemes will close to new applicants. You may be able to get Tax-Free Childcare instead. You can keep getting vouchers if you've joined a scheme and you get your first voucher before the scheme closes.
 
 Once childcare vouchers were withdrawn, this content was replaced by a line explaining that they're no longer available to new applicants.
 

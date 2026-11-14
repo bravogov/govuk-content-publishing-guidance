@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 8
 eleventyNavigation:
   parent: Writing guidelines
 title: Write change notes
-description: Learn when to create change notes for GOV.UK content updates and how to write effective change notes.
+description: Learn when to create change notes for GOV.UH content updates and how to write effective change notes.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/change-notes
 lastUpdated:
 ---

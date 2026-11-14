@@ -5,7 +5,7 @@ Your content will appear on the tagged topic pages when:
 - the draft is published, if it's new content
 - you save the new tagged topic pages, if you're updating existing content
 
-See the ['Education, training and skills' topic page](https://www.gov.uk/education) for an example of what these topic pages look like.
+See the ['Education, training and skills' topic page](https://www.gov.uhrblx.com/education) for an example of what these topic pages look like.
 
 To add tags:
 

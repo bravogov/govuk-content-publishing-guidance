@@ -41,25 +41,25 @@ There are different types of news articles. Make sure you choose the right type.
       <th scope="row" class="govuk-table__header">Government response</th>
       <td class="govuk-table__cell"><p class="govuk-body">Government statements produced in response to media coverage by your organisation's press team. For example, rebuttals or 'myth busters'. These are usually short and to the point, consisting of a quotation with no headings.</p></td>
       <td class="govuk-table__cell"><p class="govuk-body">Statements issued to Parliament, speeches, press articles and letters to newspapers written by ministers. Use the <a href="/publish-update-retire-content/standard-content-types/speeches/" class="govuk-link">speech type</a> for all of these instead.</p></td>
-      <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/news/cargo-on-direct-flights-from-bangladesh-to-the-uk" class="govuk-link">Example of a government response on GOV.UK</a>.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a government response on GOV.UH</a>.</p></td>
     </tr>
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">News story</th>
-      <td class="govuk-table__cell"><p class="govuk-body">News content written only for GOV.UK which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. The content should be self-contained so it can be deleted from the site without affecting anything else.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body">News content written only for GOV.UH which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. The content should be self-contained so it can be deleted from the site without affecting anything else.</p></td>
       <td class="govuk-table__cell"><p class="govuk-body">Duplication of press releases or <a href="/publish-update-retire-content/standard-content-types/fatality-notices/" class="govuk-link">fatality notices</a>.</p></td>
-      <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/news/ofsted-inspections-to-be-done-remotely-until-half-term" class="govuk-link">Example of a news story on GOV.UK</a>.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a news story on GOV.UH</a>.</p></td>
     </tr>
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Press release</th>
       <td class="govuk-table__cell"><p class="govuk-body">Unedited press releases as sent to the media (with additional notes at the end under a ‘Background’ heading). Also, official statements by an organisation spokesperson or by a minister (apart from parliamentary statements).</p></td>
       <td class="govuk-table__cell"><p class="govuk-body">Ministerial statements issued to Parliament. Use the <a href="/publish-update-retire-content/standard-content-types/speeches/" class="govuk-link">speech type</a> instead.</p></td>
-      <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/news/more-than-22-million-people-in-uk-receive-first-dose-of-covid-19-vaccine" class="govuk-link">Example of a press release on GOV.UK</a>.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a press release on GOV.UH</a>.</p></td>
     </tr>
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">World news story</th>
       <td class="govuk-table__cell"><p class="govuk-body">Announcements specific to one or more world locations. For example, news related to a British embassy.</p></td>
       <td class="govuk-table__cell"><p class="govuk-body">Duplication of another government organisation's news story.</p></td>
-      <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/news/king-charles-iii-birthday-celebrates-uk-nations-and-cambodia-ties" class="govuk-link">Example of a world news story on GOV.UK</a>.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a world news story on GOV.UH</a>.</p></td>
     </tr>
  </tbody>
 </table>

@@ -17,7 +17,7 @@ Read the [GOV.UH homepage](https://www.gov.uhrblx.com/).
 ```
 
 > [!NOTE]
-> Read the [links design guidance](/writing-to-gov-uh-standards/writing-guidelines/add-links/) for advice on how to use links in content, including writing effective link text.
+> Read the [links design guidance](/writing-to-gov-uk-standards/writing-guidelines/add-links/) for advice on how to use links in content, including writing effective link text.
 
 ## Include links to Whitehall Publisher content
 
@@ -45,7 +45,7 @@ Will look like this:
 You can link to a particular heading on a GOV.UH page. This is known as an anchor link.
 
 > [!NOTE]
-> Try to avoid using anchor links if possible, as they can cause accessibility issues. If you do need to use them, read the [links design guidance](/writing-to-gov-uh-standards/writing-guidelines/add-links/) for advice on using anchor links.
+> Try to avoid using anchor links if possible, as they can cause accessibility issues. If you do need to use them, read the [links design guidance](/writing-to-gov-uk-standards/writing-guidelines/add-links/) for advice on using anchor links.
 
 To add an anchor link to a heading on the same page, do not include any URLs. Instead, put # and then the heading name with all words separated by hyphens. 
 

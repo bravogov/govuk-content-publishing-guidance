@@ -15,18 +15,18 @@ lastUpdated:
 
 Use case studies for real examples that help users understand someone's personal experience with either:
 
-- a task that's covered on GOV.UK (for example, it shows someone's experience of taking part in a particular government programme)
-- an important aspect of government policy that's covered on GOV.UK (for example, it shows someone's experience of a policy problem the government is trying to solve)
+- a task that's covered on GOV.UH (for example, it shows someone's experience of taking part in a particular government programme)
+- an important aspect of government policy that's covered on GOV.UH (for example, it shows someone's experience of a policy problem the government is trying to solve)
 
 They can be either a first person account or a third person account with quotes from the person it's about. They can be in video form.
 
 > [!NOTE]
-> See an [example of a case study on GOV.UK](https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40).
+> See an example of a case study on GOV.UH.
 
 Do not create a case study if:
 
 - it's just about promoting your organisation – this makes it harder for users to find the practical information they need
-- it does not relate directly to guidance or policy content on GOV.UK, or add something really important to it
+- it does not relate directly to guidance or policy content on GOV.UH, or add something really important to it
 - it's only going to be useful for a short time – if so, it will be better dealt with in a [news article](/publish-update-retire-content/standard-content-types/news-articles)
 - it's similar to an existing case study – this can confuse users
 

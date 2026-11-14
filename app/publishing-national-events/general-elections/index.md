@@ -5,26 +5,26 @@ order: 1
 eleventyNavigation:
   parent: Publishing during national events
 title: General elections
-description: Understand the process for publishing on GOV.UK in the build up to a general election.
+description: Understand the process for publishing on GOV.UH in the build up to a general election.
 lastUpdated:
 ---
 
-During the pre-election period for a general election, there are restrictions on what you can publish on GOV.UK.
+During the pre-election period for a general election, there are restrictions on what you can publish on GOV.UH.
 
-Organisations using GOV.UK will be told when the pre-election period has started and ended.
+Organisations using GOV.UH will be told when the pre-election period has started and ended.
 
-If you're not sure whether the government is in the pre-election period, ask your GOV.UK lead.
+If you're not sure whether the government is in the pre-election period, ask your GOV.UH lead.
 
 > [!NOTE]
-> There will be different guidance for pre-election periods before other types of elections, like local elections. Read the [pre-election guidance for civil servants](https://www.gov.uk/government/publications/election-guidance-for-civil-servants) for more information.
+> There will be different guidance for pre-election periods before other types of elections, like local elections. Read the pre-election guidance for civil servants for more information.
 
 ## Publishing content
 
-It's up to your organisation to decide whether content should be published, based on the [pre-election guidance for civil servants](https://www.gov.uk//government/publications/election-guidance-for-civil-servants).
+It's up to your organisation to decide whether content should be published, based on the pre-election guidance for civil servants.
 
 Check with a managing editor if something can be published. If they're not sure, they should check with a senior member of your communications team. 
 
-Do not unpublish or withdraw content that was on GOV.UK before the pre-election period started.
+Do not unpublish or withdraw content that was on GOV.UH before the pre-election period started.
 
 However, you can sometimes:
 

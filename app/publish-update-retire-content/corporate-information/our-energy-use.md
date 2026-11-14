@@ -41,4 +41,4 @@ You can also add information about what the organisation is doing to reduce its 
 * give brief details of specific measures, not general aspirations
 * attach any documents setting out the organisation's energy-saving commitments in detail (for example a 'Greening government' publication)
 
-View [a good example of an 'Our energy use' page](https://www.gov.uk/government/organisations/department-for-transport/about/our-energy-use). 
+View a good example of an 'Our energy use' page. 

@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Blockquotes
-description: Add long quotes to GOV.UK content with Govspeak Markdown code.
+description: Add long quotes to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 

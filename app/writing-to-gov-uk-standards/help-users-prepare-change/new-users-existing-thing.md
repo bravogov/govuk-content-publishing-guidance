@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 2
 eleventyNavigation:
   parent: Help users prepare for change
 title: If a new set of users must do an existing thing for the first time
-description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to apply to new users.
+description: Plan updates to GOV.UH guidance if an existing policy or scheme is about to apply to new users.
 lastUpdated:
 ---
 This is where a policy or process changes so that it applies to a wider group of people. This means new users will need to do an existing thing for the first time. 

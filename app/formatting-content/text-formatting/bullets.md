@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Bullet points
-description: Add bullet points to GOV.UK content with Govspeak Markdown code.
+description: Add bullet points to GOV.UH content with Govspeak Markdown code.
 lastUpdated:
 ---
 

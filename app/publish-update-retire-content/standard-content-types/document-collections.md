@@ -13,7 +13,7 @@ lastUpdated:
 
 ## When to use this content type
 
-Use a document collection for grouping GOV.UK content on a single page:
+Use a document collection for grouping GOV.UH content on a single page:
 
 - for a specific audience
 - around a specific theme or topic
@@ -34,7 +34,7 @@ Do not create a collection:
 - for editions of the same publication (these should be multiple attachments on a single publication page)
 
 > [!NOTE]
-> See an [example of a document collection on GOV.UK](https://www.gov.uk/government/collections/national-driving-and-riding-standards).
+> See an example of a document collection on GOV.UH.
 
 ## Create a draft
 

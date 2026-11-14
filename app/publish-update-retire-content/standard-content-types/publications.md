@@ -56,109 +56,109 @@ There are different types of publications. Make sure you choose the right type, 
       <th scope="row" class="govuk-table__header">Corporate report</th>
       <td class="govuk-table__cell">Publications about your organisation as a corporate entity. This includes accounts, annual reports, business plans, performance and efficiency reviews and structural reform plans.</td>
       <td class="govuk-table__cell">Publications about what your organisation does, like strategy documents. Use the policy paper type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/iiac-annual-report-2019-to-2020--2" class="govuk-link">Example of a corporate report on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a corporate report on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Correspondence</th>
       <td class="govuk-table__cell">Correspondence created by your organisation or ministers. This includes announcements, letters, responses and statements. It also includes bulletins, circulars, e-bulletins and newsletters.</td>
       <td class="govuk-table__cell">Formal decision letters from tribunals, regulators or adjudicators. Use the decision type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/update-to-hasc-on-windrush-28-april-2020" class="govuk-link">Example of correspondence on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of correspondence on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Decision</th>
       <td class="govuk-table__cell">Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues.</td>
       <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/" class="govuk-link">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/" class="govuk-link">call for evidence type</a> instead. Also, press announcements about the decision. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles" class="govuk-link">news article type</a> instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations" class="govuk-link">Example of a decision on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a decision on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Form</th>
       <td class="govuk-table__cell">Forms or pro forma documents that need to be completed by the user. The page can also include guidance on how to fill in the form.</td>
       <td class="govuk-table__cell">Anything that is not a form or guidance about filling in a form.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/pet-travel-declaration-for-the-non-commercial-movement-of-animals" class="govuk-link">Example of a form on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a form on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Freedom of information (FOI) release</th>
       <td class="govuk-table__cell">Response to FOI requests.</td>
       <td class="govuk-table__cell">Anything that is not a response to an FOI request.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/climate-related-job-posts-at-the-security-industry-authority" class="govuk-link">Example of a FOI release on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a FOI release on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Guidance</th>
       <td class="govuk-table__cell">Non-statutory guidance publications like handbooks or other documents that offer advice. Also, guidance material that has been produced as a standalone hard copy document rather than a web original document.</td>
       <td class="govuk-table__cell">Statutory guidance. Use the statutory guidance type instead. Guidance about completing a form. Attach it to the same publication as the form itself.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/charity-fundraising-a-guide-to-trustee-duties-cc20" class="govuk-link">Example of guidance on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of guidance on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Impact assessment</th>
       <td class="govuk-table__cell">Documents that assess the impact of new initiatives or changes to legislation. This includes impact assessments, equality impact assessments and equality impact analyses.</td>
-      <td class="govuk-table__cell">Impact assessments related to policy papers already published on GOV.UK. Attach it to the same publication as the policy paper.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/tax-changes-for-short-term-business-visitors" class="govuk-link">Example of an impact assessment on GOV.UK</a>.</p></td>
+      <td class="govuk-table__cell">Impact assessments related to policy papers already published on GOV.UH. Attach it to the same publication as the policy paper.</td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of an impact assessment on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Independent report</th>
       <td class="govuk-table__cell">Reports commissioned by the government but written by non-government organisations. This includes independent enquiries, investigations and reviews.	</td>
       <td class="govuk-table__cell">Reports written by the government. Use the policy paper type or research and analysis type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi-30-december-2020" class="govuk-link">Example of an independent report on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of an independent report on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">International treaty</th>
       <td class="govuk-table__cell">Treaties and memoranda of understanding between the UK and other nations.</td>
       <td class="govuk-table__cell">Anything that is not an international treaty or memoranda of understanding.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/usa-tax-treaties" class="govuk-link">Example of an international treaty on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of an international treaty on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Map</th>
       <td class="govuk-table__cell">Drawn maps and geographical data.</td>
       <td class="govuk-table__cell">Anything that is not a map or geographical data.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/england-coast-path-overview-of-progress" class="govuk-link">Example of a map on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a map on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Notice</th>
       <td class="govuk-table__cell">Permit and licence applications that have to be published temporarily in a public space so users can view, comment or lodge an objection.</td>
       <td class="govuk-table__cell">Anything that is not a permit or licence application.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/walton-farms-limited-application-made-to-abstract-take-water" class="govuk-link">Example of a notice on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a notice on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Policy paper</th>
       <td class="govuk-table__cell">Publications that explain the government’s position on something. This includes action plans, implementation plans, operational plans, strategies and white papers. The page can also include any related impact assessments.</td>
       <td class="govuk-table__cell">Publications that include instructions about how to carry out a task. Use the guidance type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/covid-19-vaccination-uptake-plan" class="govuk-link">Example of a policy paper on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a policy paper on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Promotional material</th>
       <td class="govuk-table__cell">Fact sheets, leaflets, marketing collateral and posters.</td>
       <td class="govuk-table__cell">Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles" class="govuk-link">news article type</a> instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/flu-vaccination-leaflets-and-posters" class="govuk-link">Example of promotional material on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of promotional material on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Regulation</th>
       <td class="govuk-table__cell">Regulations imposed by independent regulatory authorities, like Ofsted or the Military Aviation Authority.</td>
       <td class="govuk-table__cell">Statutory guidance describing requirements that are mandatory by law. Use the statutory guidance type instead. Also, non-statutory guidance like handbooks and other documents that offer advice. Use the guidance type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/notice-of-authorised-amendments-naa-reference-table" class="govuk-link">Example of a regulation on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a regulation on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Research and analysis</th>
       <td class="govuk-table__cell">Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government.	</td>
       <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/" class="govuk-link">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/" class="govuk-link">call for evidence type</a> instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers" class="govuk-link">Example of research and analysis on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of research and analysis on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Standard</th>
       <td class="govuk-table__cell">Requirements, specifications, guidelines or patterns that can be consistently applied to products, processes and services within government.</td>
       <td class="govuk-table__cell">Any standards that are not about products, processes or services within government.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/skills-england-standards-for-official-statistics" class="govuk-link">Example of a standard on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of a standard on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Statutory guidance</th>
       <td class="govuk-table__cell">Guidance that relevant users are legally required to follow.</td>
       <td class="govuk-table__cell">Non-statutory guidance. Use the guidance type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/wild-birds-licence-to-kill-or-take-for-conservation-purposes-gl40" class="govuk-link">Example of statutory guidance on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of statutory guidance on GOV.UH</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Transparency data</th>
       <td class="govuk-table__cell">Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses.</td>
       <td class="govuk-table__cell">Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the <a href="/publish-update-retire-content/standard-content-types/statistical-data-sets/" class="govuk-link">statistical data set type</a> instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/covid-19-loan-guarantee-schemes-repayment-data-march-2026" class="govuk-link">Example of transparency data on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="[UK reference not available on GOV.UH]" class="govuk-link">Example of transparency data on GOV.UH</a>.</p></td>
     </tr>
 </tbody>
 </table>
@@ -185,7 +185,7 @@ There are different types of publications. Make sure you choose the right type, 
 
 After saving the page, you can add attachments and images.
 
-^ If you're publishing transparency data, check if there's relevant ['How to publish' guidance](https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data) with template titles, summaries and bodies that you must use.
+^ If you're publishing transparency data, check if there's relevant 'How to publish' guidance with template titles, summaries and bodies that you must use.
 
 ### If you're updating an existing publication
 
@@ -221,9 +221,9 @@ Your attachments can either be:
 
 - file attachments
 - HTML attachments
-- external attachments, if the publication is not on GOV.UK
+- external attachments, if the publication is not on GOV.UH
 
-You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uhrblx.com/technical_fault_report/new) to get support.
 
 You can quickly overwrite previous versions of file attachments if you upload new files with the same file names as your old ones.
 
@@ -236,7 +236,7 @@ When you add attachments:
 
 There are extra fields you need to fill in if your publication is an official document.
 
-If they're added correctly, they will show up on the [official documents search tool](https://www.gov.uk/official-documents).
+If they're added correctly, they will show up on the [official documents search tool](https://www.gov.uhrblx.com/official-documents).
 
 The National Archives explains the [different types of official documents](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/types-parliamentary-paper/), which they call 'parliamentary papers'.
 
@@ -290,7 +290,7 @@ Order the attachments so that any PDF versions designed for web and HTML version
 - statistical data sets – use this if the publication is associated with a [statistical data set](/publish-update-retire-content/standard-content-types/statistical-data-sets/)
 
 > [!NOTE]
-> If you're publishing transparency data, check if there's relevant ['How to publish' guidance](https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data) which includes the associations you need to use.
+> If you're publishing transparency data, check if there's relevant 'How to publish' guidance which includes the associations you need to use.
 
 ## Update settings of the draft
 

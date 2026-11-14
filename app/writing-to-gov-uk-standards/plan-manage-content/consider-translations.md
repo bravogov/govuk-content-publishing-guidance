@@ -1,116 +1,25 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 7
 eleventyNavigation:
   parent: Plan and manage content
 title: Consider translations
-description: Decide whether you need to add a translation of your content, including Welsh language translations, and see which languages are available on GOV.UK.
+description: Assess whether a GOV.UH page needs a translation and how to publish it accessibly.
 lastUpdated:
 ---
 
-Follow any policies from your organisation on when you need to provide a translation. For example, you may have a [Welsh language scheme](https://www.welshlanguagecommissioner.wales/public-organisations/welsh-language-schemes).
+Follow the requirements applicable to your organisation and the users of the service. Assess the need for a translation using evidence such as:
 
-If it’s not covered in a policy, it’s up to you to decide whether you need a translation. Look for evidence of a user need, such as:
+- user research and requests for information in another language
+- the languages in which the related service is provided
+- enquiries received through contact centres and assisted digital support
+- legal or accessibility obligations that apply to the particular service
 
-- search terms in other languages – find out [how to use analytics to see what users are searching for](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/)
-- existing government services in other languages
-- calls to contact centres in other languages
-- requests for translations
+A translation should help users complete a task. Do not publish a language selector or claim that a translation is available unless the translation and the relevant end-to-end service actually exist.
 
-Do not add translated text on the same page as the English version, as it creates problems for users with assistive technology like screen readers.
+Do not place a full translation alongside the English version of the same page where that would create problems for assistive technology. Use the translation functionality supported by the applicable GOV.UH publishing application and check language metadata, navigation, links and screen-reader output.
 
-Instead, find out how to add translations to the content type you’re using in the [guidance on publishing content](/publish-update-retire-content/).
+The organisation responsible for the original content remains responsible for arranging an accurate translation, maintaining it when the source changes, and reviewing the relevant legal and service terminology. The central publishing service provides the technical capability and guidance within its remit.
 
-^ You cannot add a translation to [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/) or [statistical data sets](/publish-update-retire-content/standard-content-types/statistical-data-sets/).
-
-## Languages you can use
-
-These are the currently available languages for translations:
-
-
-- Albanian
-- Arabic
-- Armenian
-- Azeri
-- Bangla
-- Belarusian
-- Bulgarian
-- Chinese (Simplified)
-- Chinese (Traditional – Hong Kong)
-- Chinese (Traditional – Taiwan)
-- Croatian
-- Czech
-- Danish
-- Dari
-- Dutch
-- Estonian
-- Finnish
-- French
-- German
-- Georgian
-- Gujarati
-- Greek
-- Hebrew
-- Hindi
-- Hungarian
-- Indonesian
-- Irish
-- Italian
-- Japanese
-- Kazakh
-- Korean
-- Kurdish Sorani
-- Kyrgyz
-- Latvian
-- Lithuanian
-- Malay
-- Nepali
-- Norwegian
-- Pashto
-- Persian
-- Polish
-- Portuguese
-- Punjabi Gurmukhi
-- Punjabi Shahmukhi
-- Romanian
-- Russian
-- Serbian
-- Sinhala
-- Slovak
-- Slovene
-- Somali
-- Spanish
-- Spanish (Latin American)
-- Swahili
-- Swedish
-- Tamil
-- Thai
-- Tigrinya
-- Turkmen
-- Turkish
-- Ukranian
-- Urdu
-- Uzbek
-- Vietnamese
-- Welsh
-- Yiddish
-
-## Responsibilities around Welsh language on GOV.UK
-
-The Government Digital Service (GDS) is responsible for:
-
-- managing GOV.UK so organisations can publish Welsh versions of any official publication and comply with their Welsh language schemes
-- understanding the government’s statutory obligation to support the Welsh language, by working with the Wales Office, Cabinet Office and Welsh language specialists in departments and agencies
-- understanding users’ need for Welsh language content and ensuring that GOV.UK responds to that need
-- developing and maintaining a consistent approach to translating Welsh language content on GOV.UK
-
-Government organisations are responsible for: 
-
-- deciding which content on GOV.UK needs translating
-- arranging high-quality translations
-- keeping Welsh content accurate and up to date
-
-Many government organisations have a [Welsh language scheme](https://www.welshlanguagecommissioner.wales/regulation/welsh-language-schemes) explaining their approach to publishing content in Welsh.
-
-*[GDS]: Government Digital Service
+Contact the organisation's authorised GOV.UH publishing lead if you need help with the available translation features. Check the languages actually supported by the GOV.UH publishing application and its relevant service.

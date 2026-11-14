@@ -44,12 +44,12 @@ Before you start, decide whether the speech should be marked as:
 
 See an:
 
-- [example of a transcript on GOV.UK](https://www.gov.uk/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026)
-- [example of draft text on GOV.UK](https://www.gov.uk/government/speeches/registered-charity-status-a-social-contract)
-- [example of speaking notes on GOV.UK](https://www.gov.uk/government/speeches/presentation-by-the-uk-chairperson-of-the-osce-security-committee-ambassador-neil-bush)
-- [example of a written statement on GOV.UK](https://www.gov.uk/government/speeches/light-dues-for-the-year-2021-to-2022)
-- [example of an oral statement on GOV.UK](https://www.gov.uk/government/speeches/strengthening-our-health-protection-at-the-border)
-- [example of an authored article on GOV.UK](https://www.gov.uk/government/speeches/minister-falconer-article-on-syria-anniversary-december-2025)
+- example of a transcript on GOV.UH
+- example of draft text on GOV.UH
+- example of speaking notes on GOV.UH
+- example of a written statement on GOV.UH
+- example of an oral statement on GOV.UH
+- example of an authored article on GOV.UH
 
 ## Create a draft
 
@@ -63,7 +63,7 @@ See an:
 5. Add the title. Do not include the words 'speech', 'statement' or 'Parliament', or anything about the speaker, date, venue or audience. Most of these appear on the page automatically. Put any details about the venue or audience in the summary instead.
 6. Add the summary. There's no need to specify whether it's a written or oral statement and whether the statement was given to Parliament. These details appear on the page automatically.
 7. Put the speech itself in the body.
-8. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UK.
+8. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UH.
 9. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
 10. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
 11. {% include 'reusable-content/limit-access.md' %}
@@ -102,7 +102,7 @@ You can now edit the images.
 
 {% include 'reusable-content/add-images-without-html-attachments.md' %}
 
-### If the tagged speaker or writer has a page on GOV.UK
+### If the tagged speaker or writer has a page on GOV.UH
 
 The photo used on their [people page](/publish-update-retire-content/organisations-people/people-roles) will automatically be added as a 'lead image' at the top of the page.
 

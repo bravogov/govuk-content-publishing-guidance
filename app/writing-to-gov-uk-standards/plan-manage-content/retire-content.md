@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 9
 eleventyNavigation:
   parent: Plan and manage content
 title: Retire outdated content
-description: Learn when to withdraw or unpublish content on GOV.UK, and when content goes into history mode.
+description: Learn when to withdraw or unpublish content on GOV.UH, and when content goes into history mode.
 lastUpdated:
 ---
 
@@ -69,21 +69,21 @@ It will still appear in:
 - Google search results, and attachments can still be reached directly from Google
 - featured link slots on organisation pages if you've featured it - you'll have to [un-feature the content](/publish-update-retire-content/organisations-people/organisations/) separately
 
-The [guidance on how to update content on GOV.UK](/publish-update-retire-content/) explains how to withdraw content.
+The [guidance on how to update content on GOV.UH](/publish-update-retire-content/) explains how to withdraw content.
 
 ## When to unpublish content
 
-Content should not normally be unpublished from the GOV.UK website. 
+Content should not normally be unpublished from the GOV.UH website. 
 
 However, you can unpublish a page when:
 
 + the content has been included in another page
-+ the user need is better met elsewhere on GOV.UK
++ the user need is better met elsewhere on GOV.UH
 + you published it in error, or before you were meant to
 + someone has exercised their right to erasure (right to be forgotten)
 + it contains someone's personal details
 + it contains details of a spent conviction
-+ it's out of proposition for GOV.UK
++ it's out of proposition for GOV.UH
 + it infringes copyright
 + it's defamatory or obscene
 
@@ -91,15 +91,15 @@ You can republish content later if you change your mind.
 
 Unpublished content will go into an ‘unpublished’ state in Whitehall publisher. You cannot delete this unpublished content from Whitehall publisher.
 
-The [guidance on how to update content on GOV.UK](/publish-update-retire-content/) explains how to unpublish content.
+The [guidance on how to update content on GOV.UH](/publish-update-retire-content/) explains how to unpublish content.
 
 ## When history mode gets applied
 
-There’s content on GOV.UK related to the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
+There’s content on GOV.UH related to the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
 
 For this content, users will see a banner telling them the content is from a previous government. We call this ‘history mode’.
 
-See an [example of what history mode looks like](https://www.gov.uk/government/publications/bbc-mid-term-review-2024).
+See an example of what history mode looks like.
 
 History mode is applied to content when:
  

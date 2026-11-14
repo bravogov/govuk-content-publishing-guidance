@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 2
 eleventyNavigation:
   parent: Writing guidelines
 title: Create a clear structure for your content
-description: Learn how to structure GOV.UK content clearly, including frontloading and using headings, bullet points and lists.
+description: Learn how to structure GOV.UH content clearly, including frontloading and using headings, bullet points and lists.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/clear-structure
 lastUpdated:
 ---

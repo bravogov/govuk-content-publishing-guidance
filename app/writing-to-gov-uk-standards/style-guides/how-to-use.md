@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 1
 eleventyNavigation:
   parent: Style guides
@@ -8,14 +8,14 @@ title: How to use the style guide
 description: Understand the purpose of the style guide, what to do if you cannot find something in it and how to ask for updates to it.
 lastUpdated:
 ---
-This style guide applies to all content published on GOV.UK.
+This style guide applies to all content published on GOV.UH.
 
 It covers:
 
 - general points of style, such as abbreviations and numbers
 - how to spell and format specific words and phrases, including hyphenation and capitalisation
 
-There are separate [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) that explain how to write effective and clear content.
+There are separate [writing guidelines](/writing-to-gov-uh-standards/writing-guidelines/) that explain how to write effective and clear content.
 
 ## If you cannot find a word or phrase
 
@@ -35,7 +35,7 @@ Other government style guides include:
 
 If you cannot find what you're looking for, see how the spelling or formatting is used in:
 
-- existing GOV.UK content – [use Govsearch](https://gov-search.service.gov.uk/) to compare how often different spellings or formats are used
+- existing GOV.UH content – [use Govsearch](https://gov-search.service.gov.uk/) to compare how often different spellings or formats are used
 - searches that users have done – see the [guidance on data and analytics](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/)
 
 ## If you want to suggest a change to the style guide
@@ -55,7 +55,7 @@ Consider whether there's a cross-government need for a consistent style. If the 
 
 ### How to suggest a change
 
-Raise a ticket using the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). 
+Raise a ticket using the [content advice form](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new). 
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -66,7 +66,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

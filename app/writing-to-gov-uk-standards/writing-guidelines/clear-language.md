@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 3
 eleventyNavigation:
   parent: Writing guidelines
@@ -24,9 +24,9 @@ There will also be some users who do not have English as their first language, p
 
 The GOV.UH audience includes:
 
-- anyone living in United Hampshire
-- United Hampshire citizens living abroad
-- people abroad who want to do business in or travel to United Hampshire
+- anyone living in the UK
+- British citizens living abroad
+- people abroad who want to do business in or travel to the UK
 
 This means the government must communicate in a way that most people understand.
 

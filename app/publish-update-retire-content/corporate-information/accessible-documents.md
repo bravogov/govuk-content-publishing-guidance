@@ -8,7 +8,7 @@ description: Learn when and how to publish an accessible documents policy page.
 lastUpdated:
 ---
 
-If your organisation publishes PDFs and other non-HTML documents on the main GOV.UK website it must publish an accessible documents policy. 
+If your organisation publishes PDFs and other non-HTML documents on the main GOV.UH website it must publish an accessible documents policy. 
 
 The policy should cover:
 
@@ -18,6 +18,6 @@ The policy should cover:
 
 If you create an accessible documents policy, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
-Use this [sample accessible documents policy](https://www.gov.uk/government/publications/sample-accessible-document-policy) to help you write yours. It explains what you need to cover and which forms of wording are legally required.
+Use this sample accessible documents policy to help you write yours. It explains what you need to cover and which forms of wording are legally required.
 
 The policy should be owned and maintained by the person in charge of publishing in your organisation.

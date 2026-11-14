@@ -40,4 +40,4 @@ You can also choose to include:
 * what to do if someone is not satisfied with how the organisation has handled a complaint 
 * your formal service standards document, if you have one 
 
-View [a good example of a 'Complaints procedure' page](https://www.gov.uk/government/organisations/ministry-of-defence/about/complaints-procedure).
+View a good example of a 'Complaints procedure' page.

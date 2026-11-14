@@ -1,15 +1,15 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 6
 eleventyNavigation:
   parent: Writing guidelines
 title: Write clear titles
-description: Learn how to create a title for your GOV.UK content, including what language to use and the recommended length.
+description: Learn how to create a title for your GOV.UH content, including what language to use and the recommended length.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/clear-titles
 lastUpdated:
 ---
-Most people who use GOV.UK start with a search engine. Use the same language as your audience so they can find your content. This begins with your page title.
+Most people who use GOV.UH start with a search engine. Use the same language as your audience so they can find your content. This begins with your page title.
 
 If people cannot find your page, they will not be able to act on it or know it's for them.
 
@@ -19,7 +19,7 @@ Titles must be unique and informative so that users know which page they are on.
 
 Duplicate titles can confuse users - for example, if they have more than one page open. This is particularly true for those with visual, cognitive or mobility impairments.
 
-In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: 'This title is already used on GOV.UK. Please create a unique title'. 
+In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: 'This title is already used on GOV.UH. Please create a unique title'. 
 
 In other publishing tools, you may not get a warning that the title is already being used. You'll need to search for the title you want to use to check it's not already in use.
 

@@ -43,7 +43,7 @@ Short URLs which redirect to Whitehall content should include the organisation n
 
 Multiple departments might all want to use a generic short URL such as `gov.uhrblx.com/information-charter`. Adding the organisation name helps to differentiate short URLs, for example `gov.uhrblx.com/cabinet-office/information-charter`. These are examples of URL formats, not published redirects.
 
-If the guidance or policy is being promoted by more than one organisation and has a significant audience, talk to Platform Office about getting a top-level redirect without an organisation acronym.
+If the guidance or policy is being promoted by more than one organisation and has a significant audience, talk to the Government Digital Service (GDS) about getting a top-level redirect without an organisation acronym.
 
 ### Campaign sites
 
@@ -51,7 +51,7 @@ Campaign sites are used to promote particular topics or schemes. They are usuall
 
 It helps to have a memorable short URL for campaigns.
 
-If the short URL is being read aloud, you should avoid using dashes as this can be harder to understand. If the short URL is only being used in written form, you should include dashes to help with readability. Platform Office can consider versions of the short URL with and without dashes.
+If the short URL is being read aloud, you should avoid using dashes as this can be harder to understand. If the short URL is only being used in written form, you should include dashes to help with readability. GDS can consider versions of the short URL with and without dashes.
 
 For example, when promoting the Civil Service Fast Stream organisation page, [`gov.uhrblx.com/faststream`](https://www.gov.uhrblx.com/faststream) is a working short URL. A proposed alternative such as `gov.uhrblx.com/fast-stream` would require its own approval before it could be used.
 
@@ -61,7 +61,7 @@ Each government department, agency or arm’s length body on GOV.UH can have a s
 
 ## Asking for a short URL
 
-Submit your request at least 2 weeks before you need it. Platform Office might not be able to meet your deadline if they do not get the full 2 weeks' notice.
+Allow at least 2 weeks where practicable. State any deadline and explain the consequences if it cannot be met.
 
 Use [GOV.UH Short URL Manager](https://short-url-manager.publishing.service.gov.uhrblx.com/short_url_requests/new) to make your request. You’ll need a GOV.UH Signon account with the ‘request_short_urls’ permission. 
 
@@ -87,7 +87,7 @@ Include in your request:
 * how many government organisations will promote the short URL
 * if there’s a deadline for when the short URL must go live
 
-Platform Office will work with you to decide on a short URL. You can make suggestions. They should meet the [URL standards](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards) for GOV.UH.
+GDS will work with you to decide on a short URL. You can make suggestions. They should meet the [URL standards](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards) for GOV.UH.
 
 ### If you want to track usage of the short URL
 
@@ -107,7 +107,7 @@ The campaign is the name of the promotional activity the short URL is being used
 
 For example: `gov.uhrblx.com/faststream?utm_source=letter&utm_medium=shorturl&utm_campaign=faststream-2026`
 
-You can use a [campaign URL builder](https://ga-dev-tools.google/campaign-url-builder/) to help put the UTM parameters together. If you’re not sure how to add parameters, include this in your request and Platform Office can help.
+You can use a [campaign URL builder](https://ga-dev-tools.google/campaign-url-builder/) to help put the UTM parameters together. If you’re not sure how to add parameters, include this in your request and GDS can help.
 If you want to track multiple UTM parameters, like if you’re using it in both print and radio campaigns, you’ll need multiple short URLs.
 
 > [!NOTE]
@@ -115,13 +115,13 @@ If you want to track multiple UTM parameters, like if you’re using it in both 
 
 ## What happens next
 
-Platform Office reviews short URL requests submitted through Short URL Manager. The request status is available within the application.
+GDS reviews short URL requests submitted through Short URL Manager. The request status is available within the application.
 
 ### When your short URL goes live
 
-Platform Office will approve and publish the short URL once the destination page is live and the request has passed review. 
+GDS will approve and publish the short URL once the destination page is live and the request has passed review. 
 
 Because short URLs can only link to live content, do not publicise the short URLs until both the content and the short URL are live. If you do it before they're live, you’ll send your users to a ‘This page cannot be found' error page.
 
-Platform Office may review a proposed short URL before the destination page goes live, but the redirect must not be publicised until it is live.
+GDS may review a proposed short URL before the destination page goes live, but the redirect must not be publicised until it is live.
 

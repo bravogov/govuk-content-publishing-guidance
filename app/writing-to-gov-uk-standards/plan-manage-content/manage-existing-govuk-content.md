@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 4
 eleventyNavigation:
   parent: Plan and manage content
-title: Manage existing GOV.UK content
-description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UK, such as doing content audits on Govsearch.
+title: Manage existing GOV.UH content
+description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UH, such as doing content audits on Govsearch.
 lastUpdated:
 ---
 
@@ -23,14 +23,14 @@ You can do a content audit to find out what content:
 + is tagged to organisations and topics
 + has specific words or links in it
 
-Govsearch will not show content that's published using non-GOV.UK tools, including:
+Govsearch will not show content that's published using non-GOV.UH tools, including:
 
 + blog sites
 + campaign sites
 + service domains
-+ some 'mainstream' smart answers that are published using Github, like ['Check benefits and financial support you can get'](https://www.gov.uk/check-benefits-financial-support)
++ some 'mainstream' smart answers that are published using Github, like 'Check benefits and financial support you can get'
 
-[Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you would like to search this other content.
+[Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) if you would like to search this other content.
 
 You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -41,14 +41,14 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
 
 ### If you're only interested in Whitehall Publisher
 
-You can [use the Whitehall Publisher search tool](https://whitehall-admin.publishing.service.gov.uk/government/admin/editions) to look through content on Whitehall Publisher.
+You can [use the Whitehall Publisher search tool](https://whitehall-admin.publishing.service.gov.uhrblx.com/government/admin/editions) to look through content on Whitehall Publisher.
 
 This will give you details you cannot get through Govsearch, such as:
 
@@ -66,7 +66,7 @@ The CSV file contains a list of content in the following fields:
 - lead organisation
 - supporting organisation
 - first published date
-- first published on GOV.UK date
+- first published on GOV.UH date
 - which editor published the document
 - when the document was last updated
 - content type and sub-type
@@ -113,7 +113,7 @@ If the page is also tagged to other organisations, you should contact their cont
 
 If the page is tagged to other organisations and not yours, contact their contact teams and ask them to work on the changes.
 
-[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you need contact information for other content teams.
+[Ask GDS for help](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new) if you need contact information for other content teams.
 
 You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -124,7 +124,7 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -147,17 +147,17 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
 ### If your content is on any other type of page
 
-Your content team can update the content without GDS help. Read our [guidance on how to update content on GOV.UK](/publish-update-retire-content/).
+Your content team can update the content without GDS help. Read our [guidance on how to update content on GOV.UH](/publish-update-retire-content/).
 
 You will not be able to update content if it's in 'history mode'. If it's in history mode, you'll see a banner explaining that the content was published under a previous government.
 
-If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uhrblx.com/content_advice_request/new).
 
 You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -168,7 +168,7 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UH lead or one of your organisation admins if you want access to the form. Your GOV.UH lead and organisation admins will typically be in your organisation’s GOV.UH content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

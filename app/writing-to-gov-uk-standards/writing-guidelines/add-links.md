@@ -1,11 +1,11 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 5
 eleventyNavigation:
   parent: Writing guidelines
 title: Write effective links
-description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
+description: Learn how to use links in GOV.UH content, including writing clear link text and using anchor links.
 redirect_from: /writing-to-gov-uk-standards/tone-of-voice/add-links
 lastUpdated:
 ---
@@ -13,14 +13,14 @@ You can add links to body text, but not in titles, summaries or subheadings. Rea
 
 ## Choose which links to use
 
-Do not duplicate information. If it exists elsewhere on GOV.UK, you can link to it instead.
+Do not duplicate information. If it exists elsewhere on GOV.UH, you can link to it instead.
 
-You can also link to non-GOV.UK websites in these circumstances:
+You can also link to non-GOV.UH websites in these circumstances:
 
 - you're linking to a government service or website
 - a user can only complete a task using a third party website – for example, finding a driving instructor 
-- there is evidence a user needs something that cannot be published on GOV.UK – for example, information or advice that the government cannot or does not provide 
-- a trustworthy source can support users better than GOV.UK can – for example, it has a tool or feature that GOV.UK does not
+- there is evidence a user needs something that cannot be published on GOV.UH – for example, information or advice that the government cannot or does not provide 
+- a trustworthy source can support users better than GOV.UH can – for example, it has a tool or feature that GOV.UH does not
 
 If you're including an external link, then:
 
@@ -35,8 +35,8 @@ When adding links to your content:
 
 - link to online services first, unless an offline alternative is better for your users
 - do not include the background site hosting information in the URL – this might be included if you copy and paste the URL from an external source like an email
-- if it's a GOV.UK link, do not link directly to attachments but instead to the publication page (the page the attachment is added to)
-- if it's a non-GOV.UK link, try to avoid linking directly to documents – link to the page that hosts the document and give the full name of the document they need to look at
+- if it's a GOV.UH link, do not link directly to attachments but instead to the publication page (the page the attachment is added to)
+- if it's a non-GOV.UH link, try to avoid linking directly to documents – link to the page that hosts the document and give the full name of the document they need to look at
 
 ## Add links in appropriate places
 
@@ -58,7 +58,7 @@ When writing link text:
 - do not make it too short, as it can make links harder to click – if you have one-word link text, try to use a word with at least 3 syllables
 - do not reuse the same link text to link to different pages
 - if you have more than one link to the same page, use identical link text or similar link text that conveys the same meaning
-- tell users if the link will take users off GOV.UK – for example, 'Find a counsellor on Counselling Directory'
+- tell users if the link will take users off GOV.UH – for example, 'Find a counsellor on Counselling Directory'
 - mention if you're linking to a page in a different language – for example, 'guidance on driving in France (in French)'
 - include the file format and size if you need to link directly to a document – for example 'Application form (PDF, 19.5KB)'
 

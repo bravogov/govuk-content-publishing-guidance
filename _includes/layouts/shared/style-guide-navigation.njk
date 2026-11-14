@@ -10,21 +10,21 @@
     <li><a class="govuk-link govuk-link--no-visited-state" href="#h">H</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#i">I</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#j">J</a></li>
-    <li><a class="govuk-link govuk-link--no-visited-state" href="#k">K</a></li>
+    {% if not styleGuideLetters or "k" in styleGuideLetters %}<li><a class="govuk-link govuk-link--no-visited-state" href="#k">K</a></li>{% endif %}
     <li><a class="govuk-link govuk-link--no-visited-state" href="#l">L</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#m">M</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#n">N</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#o">O</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#p">P</a></li>
-    <li><a class="govuk-link govuk-link--no-visited-state" href="#q">Q</a></li>
+    {% if not styleGuideLetters or "q" in styleGuideLetters %}<li><a class="govuk-link govuk-link--no-visited-state" href="#q">Q</a></li>{% endif %}
     <li><a class="govuk-link govuk-link--no-visited-state" href="#r">R</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#s">S</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#t">T</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#u">U</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#v">V</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#w">W</a></li>
-    <li><a class="govuk-link govuk-link--no-visited-state" href="#x">X</a></li>
-    <li><a class="govuk-link govuk-link--no-visited-state" href="#y">Y</a></li>
-    <li><a class="govuk-link govuk-link--no-visited-state" href="#z">Z</a></li>
+    {% if not styleGuideLetters or "x" in styleGuideLetters %}<li><a class="govuk-link govuk-link--no-visited-state" href="#x">X</a></li>{% endif %}
+    {% if not styleGuideLetters or "y" in styleGuideLetters %}<li><a class="govuk-link govuk-link--no-visited-state" href="#y">Y</a></li>{% endif %}
+    {% if not styleGuideLetters or "z" in styleGuideLetters %}<li><a class="govuk-link govuk-link--no-visited-state" href="#z">Z</a></li>{% endif %}
 </ol>
 </nav>

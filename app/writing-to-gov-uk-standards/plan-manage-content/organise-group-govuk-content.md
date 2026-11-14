@@ -1,26 +1,26 @@
 ---
 layout: landing-page
-sectionKey: Writing to GOV.UK standards
+sectionKey: Writing to GOV.UH standards
 order: 8
 eleventyNavigation:
   parent: Plan and manage content
-title: Organise and group GOV.UK content
+title: Organise and group GOV.UH content
 description: Put content together based on related topics or tasks, including on browse pages and step by step pages.
 lastUpdated:
 ---
-Content on GOV.UK is grouped with other similar content to help users explore particular topics or tasks.
+Content on GOV.UH is grouped with other similar content to help users explore particular topics or tasks.
 
 ## Topic tagging
 
-Most GOV.UK content needs to be tagged to a topic. 
+Most GOV.UH content needs to be tagged to a topic. 
 
 Topics are organised in a hierarchical taxonomy. This means topics can have subtopics, those subtopics can have subtopics and so on. Topics get more specific the further down the hierarchy you go.
 
-[Education, training and skills](https://www.gov.uk/education) is an example of a high level topic. Subtopics for this topic include:
+Education, training and skills is an example of a high level topic. Subtopics for this topic include:
 
-* [School and academy financial management and assurance](https://www.gov.uk/education/school-and-academy-financial-management-and-assurance)
-* [Further and higher education, skills and vocational training](https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training)
-* [Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
+* [School and academy financial management and assurance](https://www.gov.uhrblx.com/education/school-and-academy-financial-management-and-assurance)
+* [Further and higher education, skills and vocational training](https://www.gov.uhrblx.com/education/further-and-higher-education-skills-and-vocational-training)
+* [Inspections and performance of education providers](https://www.gov.uhrblx.com/education/inspections-and-performance-of-education-providers)
 
 If you want to add or remove a piece of content from a topic, it's a different process depending on the content type. For help, you can read:
 
@@ -48,12 +48,12 @@ Do not use a document collection to:
 
 ## Mainstream browse pages
 
-Mainstream browse pages group content into topic areas. These topics are shown in the 'services and information' menu on the GOV.UK homepage and sitewide navigation bar. 
+Mainstream browse pages group content into topic areas. These topics are shown in the 'services and information' menu on the GOV.UH homepage and sitewide navigation bar. 
 
 Mainstream browse has 2 levels:
 
-* level 1 – the main topic, for example '[Environment and countryside](https://www.gov.uk/browse/environment-countryside)'
-* level 2 – subtopics, for example '[Boats and waterways](https://www.gov.uk/browse/environment-countryside/boats-waterways)'
+* level 1 – the main topic, for example 'Environment and countryside'
+* level 2 – subtopics, for example 'Boats and waterways'
 
 Some subtopics list the content alphabetically and some are arranged under headings. 
 
@@ -66,7 +66,7 @@ If you want to add content to a mainstream browse page, [ask GDS to make updates
 
 ## Step by step pages
 
-If the task users need to do is part of a much broader process with multiple steps, like [learning to drive](https://www.gov.uk/learn-to-drive-a-car), content can be grouped into a step by step navigation.
+If the task users need to do is part of a much broader process with multiple steps, like learning to drive, content can be grouped into a step by step navigation.
 
 If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [ask GDS to make updates to content](/accounts-support/make-content-requests/ask-updates-content/).
 
