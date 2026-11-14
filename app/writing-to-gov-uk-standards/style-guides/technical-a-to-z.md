@@ -1,5 +1,6 @@
 ---
 layout: style-guide
+styleGuideLetters: "abcdefghijlmnoprstuvw"
 sectionKey: Writing to GOV.UH standards
 order: 4
 eleventyNavigation:
